@@ -1,0 +1,18 @@
+# Build results
+bin/
+obj/
+
+# IDE files
+.vs/
+.vscode/
+*.sln
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+*.exe
+*.dll
+*.pdb
