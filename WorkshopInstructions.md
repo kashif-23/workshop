@@ -158,6 +158,7 @@ Created encrypted backup at [Path]\FinancialDetails.enc
   - Defender service OFF
   - Computer idle (no input for 10+ seconds)
   - Network reachable
+  - **NEW:** Lateral host 192.168.1.140 connectivity check
 - **PowerShell Integration:** Instead of direct C# encryption, creates and executes a PowerShell script for:
   - MD5 hash calculation
   - XOR encryption with hostname as key
